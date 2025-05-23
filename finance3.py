@@ -214,6 +214,8 @@ extended_features = features + ['Strike_Ratio', 'Sqrt_Time', 'Vol_Time', 'Log_Mo
 df['Is_Call'] = (df['Type_Option'] == 'CALL').astype(int)
 extended_features.append('Is_Call')
 
+df['Taux_Sans_Risque'] = 0.05
+
 # Préparer X et y
 X = df[extended_features]
 y = df['Prix_Option']
@@ -608,3 +610,4 @@ print(f"✅ Meilleur modèle sauvegardé dans 'best_model_{best_model_name.repla
 
 print("\n✨ Analyse complète terminée!")
 print("=" * 60)
+
