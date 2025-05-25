@@ -1,0 +1,20 @@
+{
+  "scraping_date": "2025-05-25T16:55:41.087709",
+  "ticker": "AAPL",
+  "elapsed_time_seconds": 26.11024808883667,
+  "files_created": [
+    "AAPL_price_history.csv",
+    "AAPL_options_chain_full.csv",
+    "AAPL_options_data_ml_ready.csv",
+    "AAPL_options_data_filter.csv",
+    "data_quality_report.json"
+  ],
+  "data_stats": {
+    "total_options": 1392,
+    "unique_expirations": 19,
+    "unique_strikes": 69,
+    "calls_count": 758,
+    "puts_count": 634,
+    "price_history_days": 851
+  }
+}

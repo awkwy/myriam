@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-05-25 16:55:41",
+  "ticker": "AAPL",
+  "data_summary": {
+    "total_options": 1392,
+    "unique_expirations": 19,
+    "unique_strikes": 69,
+    "calls_count": 758,
+    "puts_count": 634,
+    "price_history_days": 851
+  },
+  "liquidity_analysis": {
+    "avg_volume": 704.3326149425287,
+    "avg_open_interest": 3177.3311781609195,
+    "pct_with_volume": 100.0,
+    "pct_tight_spread": 70.61781609195403
+  },
+  "volatility_analysis": {
+    "avg_implied_vol": 39.76242625964373,
+    "vol_range": [
+      17.70712176513672,
+      198.4375078125
+    ],
+    "vix_proxy": 34.53802863219233
+  },
+  "moneyness_distribution": {
+    "deep_otm_puts": 510,
+    "otm_puts": 82,
+    "atm": 118,
+    "otm_calls": 75,
+    "deep_otm_calls": 607
+  },
+  "maturity_distribution": {
+    "short_term_pct": 21.048850574712645,
+    "medium_term_pct": 27.298850574712645,
+    "long_term_pct": 51.65229885057471
+  },
+  "data_quality_scores": {
+    "completeness": 0.9999878238846678,
+    "liquidity_score": 2436.9549245147373,
+    "greeks_availability": 1.0
+  }
+}
