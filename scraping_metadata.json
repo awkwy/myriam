@@ -1,7 +1,7 @@
 {
-  "scraping_date": "2025-05-25T16:55:41.087709",
+  "scraping_date": "2025-05-25T19:12:11.609809",
   "ticker": "AAPL",
-  "elapsed_time_seconds": 26.11024808883667,
+  "elapsed_time_seconds": 43.031596183776855,
   "files_created": [
     "AAPL_price_history.csv",
     "AAPL_options_chain_full.csv",
