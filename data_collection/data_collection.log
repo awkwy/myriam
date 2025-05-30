@@ -1,0 +1,310 @@
+2025-05-30 05:46:04,690 - INFO - 🚀 Début collecte historique pour AAPL
+2025-05-30 05:46:04,690 - INFO - 📅 Période: 7 jours
+2025-05-30 05:46:04,690 - INFO - 📊 6 jours de trading à collecter
+2025-05-30 05:46:04,691 - INFO - 🔄 Progression: 0/6 jours
+2025-05-30 05:46:04,691 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-23
+2025-05-30 05:46:11,776 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:46:18,538 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-26
+2025-05-30 05:46:19,354 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:46:26,122 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-27
+2025-05-30 05:46:27,135 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:46:33,787 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-28
+2025-05-30 05:46:34,712 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:46:41,145 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-29
+2025-05-30 05:46:42,084 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:46:48,512 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-30
+2025-05-30 05:46:49,456 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:46:56,012 - INFO - ✅ Collecte terminée!
+2025-05-30 05:46:56,012 - INFO - 📊 Total: 5401 options
+2025-05-30 05:46:56,013 - INFO - 📅 Dates: 6
+2025-05-30 05:46:56,014 - INFO - 📈 Surfaces: 6
+2025-05-30 05:46:56,014 - INFO - 💾 Fichier: data/AAPL/AAPL_options_historical_7d.csv
+2025-05-30 05:46:56,017 - INFO - 🧹 Nettoyage des données:
+2025-05-30 05:46:56,017 - INFO -    - Initial: 5401
+2025-05-30 05:46:56,017 - INFO -    - Supprimé: 1067 (19.8%)
+2025-05-30 05:46:56,017 - INFO -    - Final: 4334
+2025-05-30 05:55:37,235 - INFO - 🚀 Début collecte historique pour AAPL
+2025-05-30 05:55:37,235 - INFO - 📅 Période: 180 jours
+2025-05-30 05:55:37,235 - INFO - 📊 130 jours de trading à collecter
+2025-05-30 05:55:37,235 - INFO - 🔄 Progression: 0/130 jours
+2025-05-30 05:55:37,236 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-02
+2025-05-30 05:55:45,277 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:55:52,220 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-03
+2025-05-30 05:55:53,280 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:56:00,136 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-04
+2025-05-30 05:56:01,068 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:56:07,643 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-05
+2025-05-30 05:56:08,460 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:56:15,343 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-06
+2025-05-30 05:56:16,223 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:56:22,731 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-09
+2025-05-30 05:56:23,596 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:56:30,549 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-10
+2025-05-30 05:56:31,588 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:56:38,202 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-11
+2025-05-30 05:56:39,169 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:56:45,688 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-12
+2025-05-30 05:56:46,549 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:56:53,069 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-13
+2025-05-30 05:56:53,955 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:57:00,428 - INFO - 🔄 Progression: 10/130 jours
+2025-05-30 05:57:00,428 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-16
+2025-05-30 05:57:01,335 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:57:08,038 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-17
+2025-05-30 05:57:08,908 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:57:15,767 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-18
+2025-05-30 05:57:16,673 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:57:23,398 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-19
+2025-05-30 05:57:24,257 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:57:31,026 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-20
+2025-05-30 05:57:31,838 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:57:38,574 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-23
+2025-05-30 05:57:39,417 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:57:45,948 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-24
+2025-05-30 05:57:46,811 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:57:53,525 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-25
+2025-05-30 05:57:54,374 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:58:01,096 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-26
+2025-05-30 05:58:01,964 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:58:08,684 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-27
+2025-05-30 05:58:09,537 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:58:16,068 - INFO - 🔄 Progression: 20/130 jours
+2025-05-30 05:58:16,068 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-30
+2025-05-30 05:58:16,915 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:58:23,646 - INFO - 📊 Collecte Yahoo pour AAPL le 2024-12-31
+2025-05-30 05:58:24,522 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:58:31,170 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-01
+2025-05-30 05:58:32,278 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:58:39,061 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-02
+2025-05-30 05:58:39,860 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:58:46,749 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-03
+2025-05-30 05:58:47,637 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:58:54,158 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-06
+2025-05-30 05:58:54,993 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:59:01,512 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-07
+2025-05-30 05:59:02,356 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:59:08,877 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-08
+2025-05-30 05:59:09,746 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:59:16,446 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-09
+2025-05-30 05:59:17,297 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:59:24,012 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-10
+2025-05-30 05:59:24,858 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:59:31,572 - INFO - 🔄 Progression: 30/130 jours
+2025-05-30 05:59:31,572 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-13
+2025-05-30 05:59:32,439 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:59:39,161 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-14
+2025-05-30 05:59:40,021 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:59:46,926 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-15
+2025-05-30 05:59:47,784 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 05:59:54,718 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-16
+2025-05-30 05:59:55,564 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:00:02,501 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-17
+2025-05-30 06:00:03,344 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:00:09,873 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-20
+2025-05-30 06:00:10,716 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:00:17,643 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-21
+2025-05-30 06:00:18,505 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:00:25,062 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-22
+2025-05-30 06:00:25,870 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:00:32,402 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-23
+2025-05-30 06:00:33,243 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:00:39,685 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-24
+2025-05-30 06:00:40,616 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:00:47,813 - INFO - 🔄 Progression: 40/130 jours
+2025-05-30 06:00:47,813 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-27
+2025-05-30 06:00:48,619 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:00:55,324 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-28
+2025-05-30 06:00:56,182 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:01:02,753 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-29
+2025-05-30 06:01:03,559 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:01:10,538 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-30
+2025-05-30 06:01:11,347 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:01:18,089 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-01-31
+2025-05-30 06:01:18,925 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:01:25,459 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-03
+2025-05-30 06:01:26,340 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:01:33,041 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-04
+2025-05-30 06:01:33,881 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:01:40,421 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-05
+2025-05-30 06:01:41,254 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:01:47,971 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-06
+2025-05-30 06:01:48,833 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:01:55,531 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-07
+2025-05-30 06:01:56,618 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:02:03,141 - INFO - 🔄 Progression: 50/130 jours
+2025-05-30 06:02:03,142 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-10
+2025-05-30 06:02:03,993 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:02:10,510 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-11
+2025-05-30 06:02:11,366 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:02:18,095 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-12
+2025-05-30 06:02:18,952 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:02:25,621 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-13
+2025-05-30 06:02:26,569 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:02:33,040 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-14
+2025-05-30 06:02:33,921 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:02:40,392 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-17
+2025-05-30 06:02:41,274 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:02:47,793 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-18
+2025-05-30 06:02:48,647 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:02:55,371 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-19
+2025-05-30 06:02:56,227 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:03:02,752 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-20
+2025-05-30 06:03:03,610 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:03:10,101 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-21
+2025-05-30 06:03:10,975 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:03:17,510 - INFO - 🔄 Progression: 60/130 jours
+2025-05-30 06:03:17,511 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-24
+2025-05-30 06:03:18,349 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:03:24,868 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-25
+2025-05-30 06:03:25,750 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:03:32,848 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-26
+2025-05-30 06:03:33,719 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:03:40,755 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-27
+2025-05-30 06:03:41,494 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:03:48,544 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-02-28
+2025-05-30 06:03:49,483 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:03:56,218 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-03
+2025-05-30 06:03:57,062 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:04:03,592 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-04
+2025-05-30 06:04:04,436 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:04:10,943 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-05
+2025-05-30 06:04:11,810 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:04:18,514 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-06
+2025-05-30 06:04:19,593 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:04:26,116 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-07
+2025-05-30 06:04:27,172 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:04:33,880 - INFO - 🔄 Progression: 70/130 jours
+2025-05-30 06:04:33,881 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-10
+2025-05-30 06:04:34,752 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:04:41,466 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-11
+2025-05-30 06:04:42,331 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:04:48,860 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-12
+2025-05-30 06:04:49,704 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:04:56,761 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-13
+2025-05-30 06:04:57,690 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:05:04,184 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-14
+2025-05-30 06:05:05,064 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:05:11,759 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-17
+2025-05-30 06:05:12,641 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:05:19,126 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-18
+2025-05-30 06:05:20,009 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:05:26,514 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-19
+2025-05-30 06:05:27,375 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:05:34,078 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-20
+2025-05-30 06:05:34,951 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:05:41,444 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-21
+2025-05-30 06:05:42,332 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:05:48,832 - INFO - 🔄 Progression: 80/130 jours
+2025-05-30 06:05:48,832 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-24
+2025-05-30 06:05:49,894 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:05:56,712 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-25
+2025-05-30 06:05:57,566 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:06:04,379 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-26
+2025-05-30 06:06:05,245 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:06:11,892 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-27
+2025-05-30 06:06:12,900 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:06:19,324 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-28
+2025-05-30 06:06:20,396 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:06:27,728 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-03-31
+2025-05-30 06:06:28,588 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:06:35,297 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-01
+2025-05-30 06:06:36,163 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:06:43,087 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-02
+2025-05-30 06:06:43,944 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:06:50,468 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-03
+2025-05-30 06:06:51,315 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:06:58,028 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-04
+2025-05-30 06:06:58,892 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:07:05,426 - INFO - 🔄 Progression: 90/130 jours
+2025-05-30 06:07:05,427 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-07
+2025-05-30 06:07:06,467 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:07:13,004 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-08
+2025-05-30 06:07:14,044 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:07:20,543 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-09
+2025-05-30 06:07:21,416 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:07:28,091 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-10
+2025-05-30 06:07:28,996 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:07:35,505 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-11
+2025-05-30 06:07:36,366 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:07:42,876 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-14
+2025-05-30 06:07:43,738 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:07:50,243 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-15
+2025-05-30 06:07:51,112 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:07:58,516 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-16
+2025-05-30 06:07:59,302 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:08:06,022 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-17
+2025-05-30 06:08:06,879 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:08:13,386 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-18
+2025-05-30 06:08:14,251 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:08:21,158 - INFO - 🔄 Progression: 100/130 jours
+2025-05-30 06:08:21,159 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-21
+2025-05-30 06:08:22,036 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:08:28,750 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-22
+2025-05-30 06:08:29,611 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:08:36,121 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-23
+2025-05-30 06:08:36,985 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:08:44,043 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-24
+2025-05-30 06:08:44,978 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:08:52,097 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-25
+2025-05-30 06:08:52,989 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:08:59,668 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-28
+2025-05-30 06:09:00,536 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:09:07,057 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-29
+2025-05-30 06:09:07,938 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:09:14,614 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-04-30
+2025-05-30 06:09:15,485 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:09:21,983 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-01
+2025-05-30 06:09:22,881 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:09:29,573 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-02
+2025-05-30 06:09:30,442 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:09:37,171 - INFO - 🔄 Progression: 110/130 jours
+2025-05-30 06:09:37,172 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-05
+2025-05-30 06:09:38,016 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:09:44,509 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-06
+2025-05-30 06:09:45,617 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:09:52,295 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-07
+2025-05-30 06:09:53,176 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:10:00,084 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-08
+2025-05-30 06:10:00,958 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:10:07,810 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-09
+2025-05-30 06:10:08,764 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:10:15,261 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-12
+2025-05-30 06:10:16,117 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:10:22,839 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-13
+2025-05-30 06:10:23,695 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:10:30,825 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-14
+2025-05-30 06:10:31,890 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:10:38,617 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-15
+2025-05-30 06:10:39,672 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:10:46,228 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-16
+2025-05-30 06:10:47,250 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:10:53,845 - INFO - 🔄 Progression: 120/130 jours
+2025-05-30 06:10:53,846 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-19
+2025-05-30 06:10:54,655 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:00,463 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-20
+2025-05-30 06:11:01,233 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:06,607 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-21
+2025-05-30 06:11:07,294 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:12,523 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-22
+2025-05-30 06:11:13,219 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:18,672 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-23
+2025-05-30 06:11:19,394 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:24,671 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-26
+2025-05-30 06:11:25,389 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:30,806 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-27
+2025-05-30 06:11:31,515 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:36,795 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-28
+2025-05-30 06:11:37,524 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:43,133 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-29
+2025-05-30 06:11:43,824 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:49,204 - INFO - 📊 Collecte Yahoo pour AAPL le 2025-05-30
+2025-05-30 06:11:49,922 - INFO - 💰 Prix du sous-jacent: $199.95
+2025-05-30 06:11:56,720 - INFO - ✅ Collecte terminée!
+2025-05-30 06:11:56,720 - INFO - 📊 Total: 127665 options
+2025-05-30 06:11:56,751 - INFO - 📅 Dates: 130
+2025-05-30 06:11:56,755 - INFO - 📈 Surfaces: 130
+2025-05-30 06:11:56,755 - INFO - 💾 Fichier: data/AAPL/AAPL_options_historical_180d.csv
+2025-05-30 06:11:56,775 - INFO - 🧹 Nettoyage des données:
+2025-05-30 06:11:56,775 - INFO -    - Initial: 127665
+2025-05-30 06:11:56,775 - INFO -    - Supprimé: 27975 (21.9%)
+2025-05-30 06:11:56,775 - INFO -    - Final: 99690

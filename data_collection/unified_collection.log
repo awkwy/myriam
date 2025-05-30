@@ -1,0 +1,2339 @@
+2025-05-30 07:38:23,006 - INFO - 🚀 Collecteur Unifié YFinance initialisé
+2025-05-30 07:38:23,007 - INFO - 📊 Paramètres: r=5.00%, maturité=7-730j
+2025-05-30 07:38:23,007 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-30 ===
+2025-05-30 07:38:29,927 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:38:30,340 - INFO - 📅 20 expirations à traiter
+2025-05-30 07:38:34,300 - INFO - 📈 1770 options collectées avant filtrage
+2025-05-30 07:38:34,313 - INFO - 🧹 Filtrage: 448 options supprimées (25.3%)
+2025-05-30 07:38:34,314 - INFO - ✅ 1322 options après filtrage
+2025-05-30 07:38:34,943 - INFO - 🧮 Greeks calculés
+2025-05-30 07:38:35,048 - INFO - ⏱️  Collecte terminée en 12.0s
+2025-05-30 07:38:35,048 - INFO - 📊 Résultat: 1322 options structurées
+2025-05-30 07:38:35,073 - INFO - 🚀 Collecte historique pour AAPL
+2025-05-30 07:38:35,073 - INFO - 📅 Période: 139 jour(s)
+2025-05-30 07:38:35,073 - INFO - 📊 Collecte pour 2025-05-30
+2025-05-30 07:38:35,073 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-30 ===
+2025-05-30 07:38:35,867 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:38:36,276 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:38:39,987 - INFO - 📈 883 options collectées avant filtrage
+2025-05-30 07:38:39,995 - INFO - 🧹 Filtrage: 218 options supprimées (24.7%)
+2025-05-30 07:38:39,995 - INFO - ✅ 665 options après filtrage
+2025-05-30 07:38:40,309 - INFO - 🧮 Greeks calculés
+2025-05-30 07:38:40,361 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:38:40,362 - INFO - 📊 Résultat: 665 options structurées
+2025-05-30 07:38:42,362 - INFO - 📊 Collecte pour 2025-05-29
+2025-05-30 07:38:42,363 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-29 ===
+2025-05-30 07:38:43,240 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:38:43,650 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:38:47,354 - INFO - 📈 883 options collectées avant filtrage
+2025-05-30 07:38:47,361 - INFO - 🧹 Filtrage: 218 options supprimées (24.7%)
+2025-05-30 07:38:47,361 - INFO - ✅ 665 options après filtrage
+2025-05-30 07:38:47,677 - INFO - 🧮 Greeks calculés
+2025-05-30 07:38:47,731 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:38:47,731 - INFO - 📊 Résultat: 665 options structurées
+2025-05-30 07:38:49,732 - INFO - 📊 Collecte pour 2025-05-28
+2025-05-30 07:38:49,732 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-28 ===
+2025-05-30 07:38:50,614 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:38:51,001 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:38:55,140 - INFO - 📈 883 options collectées avant filtrage
+2025-05-30 07:38:55,147 - INFO - 🧹 Filtrage: 218 options supprimées (24.7%)
+2025-05-30 07:38:55,148 - INFO - ✅ 665 options après filtrage
+2025-05-30 07:38:55,470 - INFO - 🧮 Greeks calculés
+2025-05-30 07:38:55,523 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 07:38:55,523 - INFO - 📊 Résultat: 665 options structurées
+2025-05-30 07:38:57,524 - INFO - 📊 Collecte pour 2025-05-27
+2025-05-30 07:38:57,524 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-27 ===
+2025-05-30 07:38:58,397 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:38:58,804 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:39:02,545 - INFO - 📈 883 options collectées avant filtrage
+2025-05-30 07:39:02,554 - INFO - 🧹 Filtrage: 218 options supprimées (24.7%)
+2025-05-30 07:39:02,554 - INFO - ✅ 665 options après filtrage
+2025-05-30 07:39:02,866 - INFO - 🧮 Greeks calculés
+2025-05-30 07:39:02,919 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:39:02,920 - INFO - 📊 Résultat: 665 options structurées
+2025-05-30 07:39:04,921 - INFO - 📊 Collecte pour 2025-05-26
+2025-05-30 07:39:04,921 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-26 ===
+2025-05-30 07:39:05,768 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:39:06,201 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:39:10,908 - INFO - 📈 883 options collectées avant filtrage
+2025-05-30 07:39:10,916 - INFO - 🧹 Filtrage: 218 options supprimées (24.7%)
+2025-05-30 07:39:10,916 - INFO - ✅ 665 options après filtrage
+2025-05-30 07:39:11,231 - INFO - 🧮 Greeks calculés
+2025-05-30 07:39:11,285 - INFO - ⏱️  Collecte terminée en 6.4s
+2025-05-30 07:39:11,285 - INFO - 📊 Résultat: 665 options structurées
+2025-05-30 07:39:13,286 - INFO - 📊 Collecte pour 2025-05-23
+2025-05-30 07:39:13,286 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-23 ===
+2025-05-30 07:39:14,170 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:39:14,576 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:39:18,691 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:39:18,698 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:39:18,699 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:39:19,046 - INFO - 🧮 Greeks calculés
+2025-05-30 07:39:19,104 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 07:39:19,104 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:39:21,105 - INFO - 📊 Collecte pour 2025-05-22
+2025-05-30 07:39:21,105 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-22 ===
+2025-05-30 07:39:21,949 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:39:22,564 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:39:26,485 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:39:26,493 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:39:26,493 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:39:26,836 - INFO - 🧮 Greeks calculés
+2025-05-30 07:39:26,893 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 07:39:26,893 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:39:28,894 - INFO - 📊 Collecte pour 2025-05-21
+2025-05-30 07:39:28,894 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-21 ===
+2025-05-30 07:39:29,732 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:39:30,140 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:39:34,463 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:39:34,471 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:39:34,471 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:39:34,817 - INFO - 🧮 Greeks calculés
+2025-05-30 07:39:34,875 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 07:39:34,875 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:39:36,876 - INFO - 📊 Collecte pour 2025-05-20
+2025-05-30 07:39:36,876 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-20 ===
+2025-05-30 07:39:37,722 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:39:38,128 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:39:41,844 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:39:41,852 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:39:41,852 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:39:42,196 - INFO - 🧮 Greeks calculés
+2025-05-30 07:39:42,254 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:39:42,254 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:39:44,255 - INFO - 📊 Collecte pour 2025-05-19
+2025-05-30 07:39:44,255 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-19 ===
+2025-05-30 07:39:45,090 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:39:45,501 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:39:49,304 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:39:49,312 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:39:49,312 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:39:49,658 - INFO - 🧮 Greeks calculés
+2025-05-30 07:39:49,716 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 07:39:49,716 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:39:51,717 - INFO - 📊 Collecte pour 2025-05-16
+2025-05-30 07:39:51,717 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-16 ===
+2025-05-30 07:39:52,468 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:39:52,893 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:39:56,637 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:39:56,646 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:39:56,647 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:39:56,992 - INFO - 🧮 Greeks calculés
+2025-05-30 07:39:57,050 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:39:57,051 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:39:59,052 - INFO - 📊 Collecte pour 2025-05-15
+2025-05-30 07:39:59,052 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-15 ===
+2025-05-30 07:39:59,836 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:40:00,245 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:40:03,219 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:40:03,228 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:40:03,229 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:40:03,572 - INFO - 🧮 Greeks calculés
+2025-05-30 07:40:03,629 - INFO - ⏱️  Collecte terminée en 4.6s
+2025-05-30 07:40:03,630 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:40:05,630 - INFO - 📊 Collecte pour 2025-05-14
+2025-05-30 07:40:05,631 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-14 ===
+2025-05-30 07:40:06,391 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:40:07,014 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:40:11,309 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:40:11,318 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:40:11,318 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:40:11,661 - INFO - 🧮 Greeks calculés
+2025-05-30 07:40:11,718 - INFO - ⏱️  Collecte terminée en 6.1s
+2025-05-30 07:40:11,718 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:40:13,720 - INFO - 📊 Collecte pour 2025-05-13
+2025-05-30 07:40:13,720 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-13 ===
+2025-05-30 07:40:14,582 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:40:14,992 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:40:19,932 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:40:19,940 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:40:19,940 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:40:20,280 - INFO - 🧮 Greeks calculés
+2025-05-30 07:40:20,338 - INFO - ⏱️  Collecte terminée en 6.6s
+2025-05-30 07:40:20,338 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:40:22,339 - INFO - 📊 Collecte pour 2025-05-12
+2025-05-30 07:40:22,339 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-12 ===
+2025-05-30 07:40:23,389 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:40:23,802 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:40:26,947 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:40:26,955 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:40:26,956 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:40:27,302 - INFO - 🧮 Greeks calculés
+2025-05-30 07:40:27,360 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:40:27,360 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:40:29,369 - INFO - 📊 Collecte pour 2025-05-09
+2025-05-30 07:40:29,370 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-09 ===
+2025-05-30 07:40:30,148 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:40:30,557 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:40:34,671 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:40:34,680 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:40:34,680 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:40:35,022 - INFO - 🧮 Greeks calculés
+2025-05-30 07:40:35,080 - INFO - ⏱️  Collecte terminée en 5.7s
+2025-05-30 07:40:35,080 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:40:37,081 - INFO - 📊 Collecte pour 2025-05-08
+2025-05-30 07:40:37,081 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-08 ===
+2025-05-30 07:40:37,930 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:40:38,339 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:40:41,278 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:40:41,287 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:40:41,287 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:40:41,640 - INFO - 🧮 Greeks calculés
+2025-05-30 07:40:41,698 - INFO - ⏱️  Collecte terminée en 4.6s
+2025-05-30 07:40:41,698 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:40:43,698 - INFO - 📊 Collecte pour 2025-05-07
+2025-05-30 07:40:43,699 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-07 ===
+2025-05-30 07:40:44,493 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:40:44,872 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:40:48,814 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:40:48,823 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:40:48,823 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:40:49,163 - INFO - 🧮 Greeks calculés
+2025-05-30 07:40:49,220 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 07:40:49,220 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:40:51,220 - INFO - 📊 Collecte pour 2025-05-06
+2025-05-30 07:40:51,221 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-06 ===
+2025-05-30 07:40:52,060 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:40:52,470 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:40:56,196 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:40:56,204 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:40:56,204 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:40:56,544 - INFO - 🧮 Greeks calculés
+2025-05-30 07:40:56,603 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:40:56,603 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:40:58,604 - INFO - 📊 Collecte pour 2025-05-05
+2025-05-30 07:40:58,604 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-05 ===
+2025-05-30 07:40:59,434 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:40:59,842 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:41:03,391 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:41:03,399 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:41:03,400 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:41:03,752 - INFO - 🧮 Greeks calculés
+2025-05-30 07:41:03,810 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 07:41:03,810 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:41:05,811 - INFO - 📊 Collecte pour 2025-05-02
+2025-05-30 07:41:05,811 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-02 ===
+2025-05-30 07:41:06,602 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:41:07,030 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:41:11,346 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:41:11,354 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:41:11,354 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:41:11,708 - INFO - 🧮 Greeks calculés
+2025-05-30 07:41:11,768 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 07:41:11,768 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:41:13,769 - INFO - 📊 Collecte pour 2025-05-01
+2025-05-30 07:41:13,769 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-01 ===
+2025-05-30 07:41:14,589 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:41:14,998 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:41:18,705 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:41:18,713 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:41:18,713 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:41:19,061 - INFO - 🧮 Greeks calculés
+2025-05-30 07:41:19,119 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:41:19,119 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:41:21,120 - INFO - 📊 Collecte pour 2025-04-30
+2025-05-30 07:41:21,120 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-30 ===
+2025-05-30 07:41:21,962 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:41:22,371 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:41:26,309 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:41:26,317 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:41:26,317 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:41:26,657 - INFO - 🧮 Greeks calculés
+2025-05-30 07:41:26,715 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 07:41:26,715 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:41:28,716 - INFO - 📊 Collecte pour 2025-04-29
+2025-05-30 07:41:28,717 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-29 ===
+2025-05-30 07:41:29,539 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:41:29,949 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:41:32,473 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:41:32,481 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:41:32,481 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:41:32,828 - INFO - 🧮 Greeks calculés
+2025-05-30 07:41:32,885 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 07:41:32,885 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:41:34,887 - INFO - 📊 Collecte pour 2025-04-28
+2025-05-30 07:41:34,887 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-28 ===
+2025-05-30 07:41:35,683 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:41:36,099 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:41:39,802 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:41:39,811 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:41:39,811 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:41:40,237 - INFO - 🧮 Greeks calculés
+2025-05-30 07:41:40,306 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:41:40,306 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:41:42,307 - INFO - 📊 Collecte pour 2025-04-25
+2025-05-30 07:41:42,307 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-25 ===
+2025-05-30 07:41:43,151 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:41:43,674 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:41:47,488 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:41:47,497 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:41:47,497 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:41:47,847 - INFO - 🧮 Greeks calculés
+2025-05-30 07:41:47,903 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 07:41:47,904 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:41:49,905 - INFO - 📊 Collecte pour 2025-04-24
+2025-05-30 07:41:49,905 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-24 ===
+2025-05-30 07:41:50,634 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:41:51,248 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:41:54,598 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:41:54,606 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:41:54,606 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:41:54,944 - INFO - 🧮 Greeks calculés
+2025-05-30 07:41:55,008 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 07:41:55,008 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:41:57,009 - INFO - 📊 Collecte pour 2025-04-23
+2025-05-30 07:41:57,010 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-23 ===
+2025-05-30 07:41:57,810 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:41:58,212 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:42:01,190 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:42:01,199 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:42:01,199 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:42:01,546 - INFO - 🧮 Greeks calculés
+2025-05-30 07:42:01,603 - INFO - ⏱️  Collecte terminée en 4.6s
+2025-05-30 07:42:01,603 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:42:03,604 - INFO - 📊 Collecte pour 2025-04-22
+2025-05-30 07:42:03,604 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-22 ===
+2025-05-30 07:42:04,355 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:42:04,765 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:42:08,476 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:42:08,484 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:42:08,484 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:42:08,830 - INFO - 🧮 Greeks calculés
+2025-05-30 07:42:08,887 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:42:08,887 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:42:10,888 - INFO - 📊 Collecte pour 2025-04-21
+2025-05-30 07:42:10,888 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-21 ===
+2025-05-30 07:42:11,728 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:42:12,139 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:42:16,061 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:42:16,069 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:42:16,069 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:42:16,416 - INFO - 🧮 Greeks calculés
+2025-05-30 07:42:16,473 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 07:42:16,473 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:42:18,473 - INFO - 📊 Collecte pour 2025-04-18
+2025-05-30 07:42:18,474 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-18 ===
+2025-05-30 07:42:19,184 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:42:19,569 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:42:24,044 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:42:24,054 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:42:24,054 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:42:24,428 - INFO - 🧮 Greeks calculés
+2025-05-30 07:42:24,497 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 07:42:24,497 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:42:26,498 - INFO - 📊 Collecte pour 2025-04-17
+2025-05-30 07:42:26,498 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-17 ===
+2025-05-30 07:42:27,195 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:42:27,585 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:42:31,385 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:42:31,393 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:42:31,393 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:42:31,763 - INFO - 🧮 Greeks calculés
+2025-05-30 07:42:31,828 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:42:31,828 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:42:33,829 - INFO - 📊 Collecte pour 2025-04-16
+2025-05-30 07:42:33,829 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-16 ===
+2025-05-30 07:42:34,537 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:42:34,957 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:42:38,189 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:42:38,198 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:42:38,199 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:42:38,604 - INFO - 🧮 Greeks calculés
+2025-05-30 07:42:38,669 - INFO - ⏱️  Collecte terminée en 4.8s
+2025-05-30 07:42:38,670 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:42:40,670 - INFO - 📊 Collecte pour 2025-04-15
+2025-05-30 07:42:40,671 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-15 ===
+2025-05-30 07:42:41,379 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:42:41,754 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:42:45,239 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:42:45,248 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:42:45,248 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:42:45,646 - INFO - 🧮 Greeks calculés
+2025-05-30 07:42:45,720 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:42:45,721 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:42:47,721 - INFO - 📊 Collecte pour 2025-04-14
+2025-05-30 07:42:47,722 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-14 ===
+2025-05-30 07:42:48,414 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:42:48,812 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:42:52,513 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:42:52,522 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:42:52,522 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:42:52,897 - INFO - 🧮 Greeks calculés
+2025-05-30 07:42:52,962 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 07:42:52,962 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:42:54,963 - INFO - 📊 Collecte pour 2025-04-11
+2025-05-30 07:42:54,963 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-11 ===
+2025-05-30 07:42:55,761 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:42:56,170 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:43:00,513 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:43:00,521 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:43:00,521 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:43:00,912 - INFO - 🧮 Greeks calculés
+2025-05-30 07:43:00,985 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 07:43:00,985 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:43:02,986 - INFO - 📊 Collecte pour 2025-04-10
+2025-05-30 07:43:02,986 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-10 ===
+2025-05-30 07:43:03,954 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:43:04,367 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:43:07,926 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:43:07,937 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:43:07,937 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:43:08,346 - INFO - 🧮 Greeks calculés
+2025-05-30 07:43:08,414 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:43:08,415 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:43:10,415 - INFO - 📊 Collecte pour 2025-04-09
+2025-05-30 07:43:10,416 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-09 ===
+2025-05-30 07:43:11,531 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:43:11,939 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:43:14,702 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:43:14,710 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:43:14,710 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:43:15,068 - INFO - 🧮 Greeks calculés
+2025-05-30 07:43:15,128 - INFO - ⏱️  Collecte terminée en 4.7s
+2025-05-30 07:43:15,128 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:43:17,129 - INFO - 📊 Collecte pour 2025-04-08
+2025-05-30 07:43:17,129 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-08 ===
+2025-05-30 07:43:18,085 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:43:18,495 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:43:22,237 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:43:22,245 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:43:22,245 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:43:22,599 - INFO - 🧮 Greeks calculés
+2025-05-30 07:43:22,657 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 07:43:22,657 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:43:24,658 - INFO - 📊 Collecte pour 2025-04-07
+2025-05-30 07:43:24,659 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-07 ===
+2025-05-30 07:43:25,457 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:43:25,866 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:43:28,803 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:43:28,811 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:43:28,811 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:43:29,153 - INFO - 🧮 Greeks calculés
+2025-05-30 07:43:29,211 - INFO - ⏱️  Collecte terminée en 4.6s
+2025-05-30 07:43:29,211 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:43:31,212 - INFO - 📊 Collecte pour 2025-04-04
+2025-05-30 07:43:31,212 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-04 ===
+2025-05-30 07:43:32,010 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:43:32,420 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:43:36,127 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:43:36,135 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:43:36,135 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:43:36,476 - INFO - 🧮 Greeks calculés
+2025-05-30 07:43:36,533 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:43:36,533 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:43:38,534 - INFO - 📊 Collecte pour 2025-04-03
+2025-05-30 07:43:38,535 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-03 ===
+2025-05-30 07:43:39,383 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:43:39,795 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:43:43,100 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:43:43,109 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:43:43,109 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:43:43,450 - INFO - 🧮 Greeks calculés
+2025-05-30 07:43:43,508 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:43:43,509 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:43:45,509 - INFO - 📊 Collecte pour 2025-04-02
+2025-05-30 07:43:45,510 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-02 ===
+2025-05-30 07:43:46,335 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:43:46,757 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:43:51,690 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:43:51,698 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:43:51,698 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:43:52,036 - INFO - 🧮 Greeks calculés
+2025-05-30 07:43:52,096 - INFO - ⏱️  Collecte terminée en 6.6s
+2025-05-30 07:43:52,096 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:43:54,097 - INFO - 📊 Collecte pour 2025-04-01
+2025-05-30 07:43:54,097 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-01 ===
+2025-05-30 07:43:54,949 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:43:55,563 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:44:00,099 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:44:00,108 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:44:00,108 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:44:00,452 - INFO - 🧮 Greeks calculés
+2025-05-30 07:44:00,512 - INFO - ⏱️  Collecte terminée en 6.4s
+2025-05-30 07:44:00,512 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:44:02,513 - INFO - 📊 Collecte pour 2025-03-31
+2025-05-30 07:44:02,513 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-31 ===
+2025-05-30 07:44:03,345 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:44:03,755 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:44:07,910 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:44:07,918 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:44:07,918 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:44:08,256 - INFO - 🧮 Greeks calculés
+2025-05-30 07:44:08,313 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 07:44:08,313 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:44:10,314 - INFO - 📊 Collecte pour 2025-03-28
+2025-05-30 07:44:10,314 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-28 ===
+2025-05-30 07:44:11,128 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:44:11,538 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:44:27,229 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:44:27,237 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:44:27,237 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:44:27,587 - INFO - 🧮 Greeks calculés
+2025-05-30 07:44:27,645 - INFO - ⏱️  Collecte terminée en 17.3s
+2025-05-30 07:44:27,645 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:44:29,646 - INFO - 📊 Collecte pour 2025-03-27
+2025-05-30 07:44:29,647 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-27 ===
+2025-05-30 07:44:30,529 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:44:30,917 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:44:35,123 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:44:35,130 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:44:35,131 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:44:35,474 - INFO - 🧮 Greeks calculés
+2025-05-30 07:44:35,530 - INFO - ⏱️  Collecte terminée en 5.9s
+2025-05-30 07:44:35,530 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:44:37,531 - INFO - 📊 Collecte pour 2025-03-26
+2025-05-30 07:44:37,532 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-26 ===
+2025-05-30 07:44:38,371 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:44:38,775 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:44:42,513 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:44:42,521 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:44:42,521 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:44:42,869 - INFO - 🧮 Greeks calculés
+2025-05-30 07:44:42,927 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:44:42,927 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:44:44,928 - INFO - 📊 Collecte pour 2025-03-25
+2025-05-30 07:44:44,928 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-25 ===
+2025-05-30 07:44:45,754 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:44:46,149 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:44:50,889 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:44:50,897 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:44:50,897 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:44:51,247 - INFO - 🧮 Greeks calculés
+2025-05-30 07:44:51,307 - INFO - ⏱️  Collecte terminée en 6.4s
+2025-05-30 07:44:51,307 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:44:53,308 - INFO - 📊 Collecte pour 2025-03-24
+2025-05-30 07:44:53,308 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-24 ===
+2025-05-30 07:44:54,136 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:44:54,540 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:44:58,659 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:44:58,667 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:44:58,667 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:44:59,014 - INFO - 🧮 Greeks calculés
+2025-05-30 07:44:59,072 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 07:44:59,072 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:45:01,073 - INFO - 📊 Collecte pour 2025-03-21
+2025-05-30 07:45:01,073 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-21 ===
+2025-05-30 07:45:01,919 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:45:02,328 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:45:06,045 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:45:06,053 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:45:06,053 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:45:06,393 - INFO - 🧮 Greeks calculés
+2025-05-30 07:45:06,450 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:45:06,450 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:45:08,452 - INFO - 📊 Collecte pour 2025-03-20
+2025-05-30 07:45:08,452 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-20 ===
+2025-05-30 07:45:09,290 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:45:09,728 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:45:14,035 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:45:14,044 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:45:14,044 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:45:14,393 - INFO - 🧮 Greeks calculés
+2025-05-30 07:45:14,452 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 07:45:14,452 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:45:16,453 - INFO - 📊 Collecte pour 2025-03-19
+2025-05-30 07:45:16,454 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-19 ===
+2025-05-30 07:45:17,277 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:45:17,689 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:45:21,420 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:45:21,428 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:45:21,428 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:45:21,766 - INFO - 🧮 Greeks calculés
+2025-05-30 07:45:21,823 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:45:21,824 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:45:23,824 - INFO - 📊 Collecte pour 2025-03-18
+2025-05-30 07:45:23,825 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-18 ===
+2025-05-30 07:45:24,658 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:45:25,063 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:45:28,777 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:45:28,785 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:45:28,785 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:45:29,129 - INFO - 🧮 Greeks calculés
+2025-05-30 07:45:29,186 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:45:29,186 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:45:31,188 - INFO - 📊 Collecte pour 2025-03-17
+2025-05-30 07:45:31,188 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-17 ===
+2025-05-30 07:45:32,028 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:45:32,413 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:45:36,013 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:45:36,022 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:45:36,022 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:45:36,357 - INFO - 🧮 Greeks calculés
+2025-05-30 07:45:36,415 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 07:45:36,415 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:45:38,416 - INFO - 📊 Collecte pour 2025-03-14
+2025-05-30 07:45:38,416 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-14 ===
+2025-05-30 07:45:39,192 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:45:39,806 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:45:44,163 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:45:44,172 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:45:44,173 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:45:44,510 - INFO - 🧮 Greeks calculés
+2025-05-30 07:45:44,566 - INFO - ⏱️  Collecte terminée en 6.1s
+2025-05-30 07:45:44,566 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:45:46,567 - INFO - 📊 Collecte pour 2025-03-13
+2025-05-30 07:45:46,567 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-13 ===
+2025-05-30 07:45:47,385 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:45:47,804 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:45:51,498 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:45:51,506 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:45:51,506 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:45:51,853 - INFO - 🧮 Greeks calculés
+2025-05-30 07:45:51,909 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:45:51,910 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:45:53,910 - INFO - 📊 Collecte pour 2025-03-12
+2025-05-30 07:45:53,911 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-12 ===
+2025-05-30 07:45:54,759 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:45:55,167 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:45:59,488 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:45:59,497 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:45:59,497 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:45:59,899 - INFO - 🧮 Greeks calculés
+2025-05-30 07:45:59,957 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 07:45:59,957 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:46:01,958 - INFO - 📊 Collecte pour 2025-03-11
+2025-05-30 07:46:01,959 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-11 ===
+2025-05-30 07:46:02,744 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:46:03,156 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:46:07,063 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:46:07,072 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:46:07,072 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:46:07,433 - INFO - 🧮 Greeks calculés
+2025-05-30 07:46:07,492 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 07:46:07,492 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:46:09,495 - INFO - 📊 Collecte pour 2025-03-10
+2025-05-30 07:46:09,495 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-10 ===
+2025-05-30 07:46:10,324 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:46:10,732 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:46:14,460 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:46:14,465 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:46:14,465 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:46:14,644 - INFO - 🧮 Greeks calculés
+2025-05-30 07:46:14,675 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 07:46:14,675 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:46:16,676 - INFO - 📊 Collecte pour 2025-03-07
+2025-05-30 07:46:16,676 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-07 ===
+2025-05-30 07:46:17,490 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:46:17,901 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:46:21,814 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:46:21,819 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:46:21,819 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:46:21,989 - INFO - 🧮 Greeks calculés
+2025-05-30 07:46:22,017 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:46:22,017 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:46:24,018 - INFO - 📊 Collecte pour 2025-03-06
+2025-05-30 07:46:24,019 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-06 ===
+2025-05-30 07:46:24,863 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:46:25,283 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:46:29,201 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:46:29,210 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:46:29,210 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:46:29,577 - INFO - 🧮 Greeks calculés
+2025-05-30 07:46:29,640 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 07:46:29,640 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:46:31,641 - INFO - 📊 Collecte pour 2025-03-05
+2025-05-30 07:46:31,641 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-05 ===
+2025-05-30 07:46:32,647 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:46:33,056 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:46:35,992 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:46:36,001 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:46:36,002 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:46:36,346 - INFO - 🧮 Greeks calculés
+2025-05-30 07:46:36,404 - INFO - ⏱️  Collecte terminée en 4.8s
+2025-05-30 07:46:36,404 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:46:38,405 - INFO - 📊 Collecte pour 2025-03-04
+2025-05-30 07:46:38,406 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-04 ===
+2025-05-30 07:46:39,200 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:46:39,608 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:46:42,954 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:46:42,962 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:46:42,963 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:46:43,339 - INFO - 🧮 Greeks calculés
+2025-05-30 07:46:43,396 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:46:43,396 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:46:45,397 - INFO - 📊 Collecte pour 2025-03-03
+2025-05-30 07:46:45,398 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-03 ===
+2025-05-30 07:46:46,165 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:46:46,573 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:46:50,482 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:46:50,491 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:46:50,491 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:46:50,882 - INFO - 🧮 Greeks calculés
+2025-05-30 07:46:50,947 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 07:46:50,948 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:46:52,948 - INFO - 📊 Collecte pour 2025-02-28
+2025-05-30 07:46:52,949 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-28 ===
+2025-05-30 07:46:53,742 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:46:54,150 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:46:57,894 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:46:57,903 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:46:57,903 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:46:58,244 - INFO - 🧮 Greeks calculés
+2025-05-30 07:46:58,310 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:46:58,310 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:47:00,311 - INFO - 📊 Collecte pour 2025-02-27
+2025-05-30 07:47:00,311 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-27 ===
+2025-05-30 07:47:01,113 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:47:01,522 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:47:05,430 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:47:05,436 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:47:05,436 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:47:05,603 - INFO - 🧮 Greeks calculés
+2025-05-30 07:47:05,632 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:47:05,632 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:47:07,633 - INFO - 📊 Collecte pour 2025-02-26
+2025-05-30 07:47:07,633 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-26 ===
+2025-05-30 07:47:08,692 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:47:09,100 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:47:12,810 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:47:12,819 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:47:12,819 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:47:13,207 - INFO - 🧮 Greeks calculés
+2025-05-30 07:47:13,253 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 07:47:13,253 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:47:15,254 - INFO - 📊 Collecte pour 2025-02-25
+2025-05-30 07:47:15,254 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-25 ===
+2025-05-30 07:47:16,063 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:47:16,474 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:47:19,630 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:47:19,642 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:47:19,643 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:47:20,050 - INFO - 🧮 Greeks calculés
+2025-05-30 07:47:20,127 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 07:47:20,127 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:47:22,128 - INFO - 📊 Collecte pour 2025-02-24
+2025-05-30 07:47:22,128 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-24 ===
+2025-05-30 07:47:23,026 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:47:23,439 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:47:27,365 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:47:27,376 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:47:27,376 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:47:27,765 - INFO - 🧮 Greeks calculés
+2025-05-30 07:47:27,833 - INFO - ⏱️  Collecte terminée en 5.7s
+2025-05-30 07:47:27,833 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:47:29,834 - INFO - 📊 Collecte pour 2025-02-21
+2025-05-30 07:47:29,835 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-21 ===
+2025-05-30 07:47:30,605 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:47:31,014 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:47:34,738 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:47:34,748 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:47:34,748 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:47:35,115 - INFO - 🧮 Greeks calculés
+2025-05-30 07:47:35,152 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:47:35,153 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:47:37,154 - INFO - 📊 Collecte pour 2025-02-20
+2025-05-30 07:47:37,154 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-20 ===
+2025-05-30 07:47:43,717 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:47:44,121 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:47:48,089 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:47:48,097 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:47:48,097 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:47:48,477 - INFO - 🧮 Greeks calculés
+2025-05-30 07:47:48,543 - INFO - ⏱️  Collecte terminée en 11.4s
+2025-05-30 07:47:48,544 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:47:50,544 - INFO - 📊 Collecte pour 2025-02-19
+2025-05-30 07:47:50,544 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-19 ===
+2025-05-30 07:47:51,442 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:47:51,839 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:47:55,119 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:47:55,127 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:47:55,127 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:47:55,517 - INFO - 🧮 Greeks calculés
+2025-05-30 07:47:55,580 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:47:55,581 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:47:57,581 - INFO - 📊 Collecte pour 2025-02-18
+2025-05-30 07:47:57,582 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-18 ===
+2025-05-30 07:47:58,457 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:47:58,871 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:48:02,996 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:48:03,006 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:48:03,006 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:48:03,355 - INFO - 🧮 Greeks calculés
+2025-05-30 07:48:03,416 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 07:48:03,416 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:48:05,418 - INFO - 📊 Collecte pour 2025-02-17
+2025-05-30 07:48:05,419 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-17 ===
+2025-05-30 07:48:06,445 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:48:06,855 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:48:10,781 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:48:10,792 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:48:10,792 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:48:11,053 - INFO - 🧮 Greeks calculés
+2025-05-30 07:48:11,086 - INFO - ⏱️  Collecte terminée en 5.7s
+2025-05-30 07:48:11,086 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:48:13,087 - INFO - 📊 Collecte pour 2025-02-14
+2025-05-30 07:48:13,087 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-14 ===
+2025-05-30 07:48:14,029 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:48:14,432 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:48:17,372 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:48:17,380 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:48:17,381 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:48:17,634 - INFO - 🧮 Greeks calculés
+2025-05-30 07:48:17,664 - INFO - ⏱️  Collecte terminée en 4.6s
+2025-05-30 07:48:17,664 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:48:19,665 - INFO - 📊 Collecte pour 2025-02-13
+2025-05-30 07:48:19,665 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-13 ===
+2025-05-30 07:48:20,574 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:48:20,987 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:48:24,680 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:48:24,684 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:48:24,685 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:48:24,853 - INFO - 🧮 Greeks calculés
+2025-05-30 07:48:24,887 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 07:48:24,888 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:48:26,888 - INFO - 📊 Collecte pour 2025-02-12
+2025-05-30 07:48:26,888 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-12 ===
+2025-05-30 07:48:27,744 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:48:28,155 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:48:32,067 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:48:32,072 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:48:32,072 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:48:32,286 - INFO - 🧮 Greeks calculés
+2025-05-30 07:48:32,321 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:48:32,321 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:48:34,322 - INFO - 📊 Collecte pour 2025-02-11
+2025-05-30 07:48:34,322 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-11 ===
+2025-05-30 07:48:35,118 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:48:35,534 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:48:39,656 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:48:39,664 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:48:39,664 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:48:39,954 - INFO - 🧮 Greeks calculés
+2025-05-30 07:48:39,988 - INFO - ⏱️  Collecte terminée en 5.7s
+2025-05-30 07:48:39,988 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:48:41,989 - INFO - 📊 Collecte pour 2025-02-10
+2025-05-30 07:48:41,989 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-10 ===
+2025-05-30 07:48:42,898 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:48:43,310 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:48:46,452 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:48:46,460 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:48:46,460 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:48:46,711 - INFO - 🧮 Greeks calculés
+2025-05-30 07:48:46,746 - INFO - ⏱️  Collecte terminée en 4.8s
+2025-05-30 07:48:46,746 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:48:48,747 - INFO - 📊 Collecte pour 2025-02-07
+2025-05-30 07:48:48,747 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-07 ===
+2025-05-30 07:48:49,657 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:48:50,068 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:48:54,276 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:48:54,280 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:48:54,280 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:48:54,460 - INFO - 🧮 Greeks calculés
+2025-05-30 07:48:54,489 - INFO - ⏱️  Collecte terminée en 5.7s
+2025-05-30 07:48:54,489 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:48:56,489 - INFO - 📊 Collecte pour 2025-02-06
+2025-05-30 07:48:56,490 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-06 ===
+2025-05-30 07:48:57,234 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:48:57,658 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:49:01,761 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:49:01,766 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:49:01,766 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:49:01,945 - INFO - 🧮 Greeks calculés
+2025-05-30 07:49:01,975 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 07:49:01,975 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:49:03,976 - INFO - 📊 Collecte pour 2025-02-05
+2025-05-30 07:49:03,976 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-05 ===
+2025-05-30 07:49:04,811 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:49:05,221 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:49:09,342 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:49:09,352 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:49:09,352 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:49:09,746 - INFO - 🧮 Greeks calculés
+2025-05-30 07:49:09,812 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 07:49:09,813 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:49:11,813 - INFO - 📊 Collecte pour 2025-02-04
+2025-05-30 07:49:11,814 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-04 ===
+2025-05-30 07:49:12,674 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:49:13,209 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:49:16,144 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:49:16,152 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:49:16,152 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:49:16,505 - INFO - 🧮 Greeks calculés
+2025-05-30 07:49:16,562 - INFO - ⏱️  Collecte terminée en 4.7s
+2025-05-30 07:49:16,562 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:49:18,563 - INFO - 📊 Collecte pour 2025-02-03
+2025-05-30 07:49:18,563 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-03 ===
+2025-05-30 07:49:19,354 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:49:19,744 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:49:31,052 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:49:31,061 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:49:31,061 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:49:31,474 - INFO - 🧮 Greeks calculés
+2025-05-30 07:49:31,542 - INFO - ⏱️  Collecte terminée en 13.0s
+2025-05-30 07:49:31,542 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:49:33,543 - INFO - 📊 Collecte pour 2025-01-31
+2025-05-30 07:49:33,543 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-31 ===
+2025-05-30 07:49:34,508 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:49:34,920 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:49:38,625 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:49:38,635 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:49:38,635 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:49:39,035 - INFO - 🧮 Greeks calculés
+2025-05-30 07:49:39,099 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 07:49:39,100 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:49:41,101 - INFO - 📊 Collecte pour 2025-01-30
+2025-05-30 07:49:41,101 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-30 ===
+2025-05-30 07:49:41,839 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:49:42,239 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:49:46,207 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:49:46,217 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:49:46,217 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:49:46,567 - INFO - 🧮 Greeks calculés
+2025-05-30 07:49:46,621 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 07:49:46,621 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:49:48,623 - INFO - 📊 Collecte pour 2025-01-29
+2025-05-30 07:49:48,623 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-29 ===
+2025-05-30 07:49:49,461 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:49:49,873 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:49:53,680 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:49:53,690 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:49:53,690 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:49:54,051 - INFO - 🧮 Greeks calculés
+2025-05-30 07:49:54,110 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 07:49:54,110 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:49:56,111 - INFO - 📊 Collecte pour 2025-01-28
+2025-05-30 07:49:56,111 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-28 ===
+2025-05-30 07:49:56,928 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:49:57,338 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:50:02,790 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:50:02,800 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:50:02,801 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:50:03,159 - INFO - 🧮 Greeks calculés
+2025-05-30 07:50:03,219 - INFO - ⏱️  Collecte terminée en 7.1s
+2025-05-30 07:50:03,219 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:50:05,220 - INFO - 📊 Collecte pour 2025-01-27
+2025-05-30 07:50:05,220 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-27 ===
+2025-05-30 07:50:06,050 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:50:06,458 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:50:10,238 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:50:10,246 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:50:10,247 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:50:10,588 - INFO - 🧮 Greeks calculés
+2025-05-30 07:50:10,630 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:50:10,631 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:50:12,633 - INFO - 📊 Collecte pour 2025-01-24
+2025-05-30 07:50:12,633 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-24 ===
+2025-05-30 07:50:13,365 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:50:13,755 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:50:17,437 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:50:17,441 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:50:17,441 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:50:17,619 - INFO - 🧮 Greeks calculés
+2025-05-30 07:50:17,650 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:50:17,650 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:50:19,651 - INFO - 📊 Collecte pour 2025-01-23
+2025-05-30 07:50:19,651 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-23 ===
+2025-05-30 07:50:20,351 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:50:20,754 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:50:24,492 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:50:24,495 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:50:24,495 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:50:24,666 - INFO - 🧮 Greeks calculés
+2025-05-30 07:50:24,697 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:50:24,697 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:50:26,699 - INFO - 📊 Collecte pour 2025-01-22
+2025-05-30 07:50:26,700 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-22 ===
+2025-05-30 07:50:27,552 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:50:27,942 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:50:31,450 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:50:31,457 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:50:31,457 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:50:31,635 - INFO - 🧮 Greeks calculés
+2025-05-30 07:50:31,665 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:50:31,665 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:50:33,666 - INFO - 📊 Collecte pour 2025-01-21
+2025-05-30 07:50:33,666 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-21 ===
+2025-05-30 07:50:34,389 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:50:34,758 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:50:37,182 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:50:37,186 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:50:37,186 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:50:37,365 - INFO - 🧮 Greeks calculés
+2025-05-30 07:50:37,394 - INFO - ⏱️  Collecte terminée en 3.7s
+2025-05-30 07:50:37,394 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:50:39,395 - INFO - 📊 Collecte pour 2025-01-20
+2025-05-30 07:50:39,395 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-20 ===
+2025-05-30 07:50:40,148 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:50:40,545 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:50:44,040 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:50:44,043 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:50:44,043 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:50:44,229 - INFO - 🧮 Greeks calculés
+2025-05-30 07:50:44,259 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 07:50:44,259 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:50:46,260 - INFO - 📊 Collecte pour 2025-01-17
+2025-05-30 07:50:46,260 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-17 ===
+2025-05-30 07:50:47,007 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:50:47,421 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:50:50,964 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:50:50,969 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:50:50,969 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:50:51,134 - INFO - 🧮 Greeks calculés
+2025-05-30 07:50:51,168 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 07:50:51,168 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:50:53,169 - INFO - 📊 Collecte pour 2025-01-16
+2025-05-30 07:50:53,169 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-16 ===
+2025-05-30 07:50:53,851 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:50:54,236 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:50:57,358 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:50:57,362 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:50:57,362 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:50:57,543 - INFO - 🧮 Greeks calculés
+2025-05-30 07:50:57,572 - INFO - ⏱️  Collecte terminée en 4.4s
+2025-05-30 07:50:57,572 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:50:59,572 - INFO - 📊 Collecte pour 2025-01-15
+2025-05-30 07:50:59,572 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-15 ===
+2025-05-30 07:51:00,299 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:51:00,730 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:51:03,633 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:51:03,638 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:51:03,642 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:51:03,817 - INFO - 🧮 Greeks calculés
+2025-05-30 07:51:03,849 - INFO - ⏱️  Collecte terminée en 4.3s
+2025-05-30 07:51:03,849 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:51:05,849 - INFO - 📊 Collecte pour 2025-01-14
+2025-05-30 07:51:05,850 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-14 ===
+2025-05-30 07:51:06,670 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:51:07,080 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:51:09,780 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:51:09,784 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:51:09,785 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:51:09,973 - INFO - 🧮 Greeks calculés
+2025-05-30 07:51:10,004 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 07:51:10,005 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:51:12,005 - INFO - 📊 Collecte pour 2025-01-13
+2025-05-30 07:51:12,005 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-13 ===
+2025-05-30 07:51:12,725 - INFO - 💰 Prix spot: $199.95
+2025-05-30 07:51:13,098 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:51:17,949 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:51:17,956 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:51:17,956 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:51:18,138 - INFO - 🧮 Greeks calculés
+2025-05-30 07:51:18,169 - INFO - ⏱️  Collecte terminée en 6.2s
+2025-05-30 07:51:18,169 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:51:20,753 - INFO - ✅ Collecte terminée!
+2025-05-30 07:51:20,753 - INFO - 📊 Total: 71535 options
+2025-05-30 07:51:20,753 - INFO - 💾 Fichier: data/AAPL/AAPL_options_combined_139d.csv
+2025-05-30 07:55:52,591 - INFO - 🚀 Collecteur Unifié YFinance initialisé
+2025-05-30 07:55:52,592 - INFO - 📊 Paramètres: r=5.00%, maturité=7-730j
+2025-05-30 07:55:52,592 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-30 ===
+2025-05-30 07:56:00,648 - INFO - 💰 Prix spot au 2025-05-30: $199.95
+2025-05-30 07:56:01,059 - INFO - 📅 20 expirations à traiter
+2025-05-30 07:56:05,405 - INFO - 📈 1770 options collectées avant filtrage
+2025-05-30 07:56:05,418 - INFO - 🧹 Filtrage: 448 options supprimées (25.3%)
+2025-05-30 07:56:05,419 - INFO - ✅ 1322 options après filtrage
+2025-05-30 07:56:06,035 - INFO - 🧮 Greeks calculés
+2025-05-30 07:56:06,094 - INFO - ⏱️  Collecte terminée en 13.5s
+2025-05-30 07:56:06,094 - INFO - 📊 Résultat: 1322 options structurées
+2025-05-30 07:56:06,113 - INFO - 🚀 Collecte historique pour AAPL
+2025-05-30 07:56:06,114 - INFO - 📅 Période: 180 jour(s)
+2025-05-30 07:56:06,114 - INFO - 📊 Collecte pour 2025-05-30
+2025-05-30 07:56:06,114 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-30 ===
+2025-05-30 07:56:06,998 - INFO - 💰 Prix spot au 2025-05-30: $199.95
+2025-05-30 07:56:07,406 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:56:22,766 - INFO - 📈 799 options collectées avant filtrage
+2025-05-30 07:56:22,774 - INFO - 🧹 Filtrage: 195 options supprimées (24.4%)
+2025-05-30 07:56:22,774 - INFO - ✅ 604 options après filtrage
+2025-05-30 07:56:23,060 - INFO - 🧮 Greeks calculés
+2025-05-30 07:56:23,109 - INFO - ⏱️  Collecte terminée en 17.0s
+2025-05-30 07:56:23,109 - INFO - 📊 Résultat: 604 options structurées
+2025-05-30 07:56:25,110 - INFO - 📊 Collecte pour 2025-05-29
+2025-05-30 07:56:25,111 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-29 ===
+2025-05-30 07:56:25,640 - INFO - 💰 Prix spot au 2025-05-29: $199.95
+2025-05-30 07:56:26,039 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:56:28,974 - INFO - 📈 883 options collectées avant filtrage
+2025-05-30 07:56:28,982 - INFO - 🧹 Filtrage: 218 options supprimées (24.7%)
+2025-05-30 07:56:28,982 - INFO - ✅ 665 options après filtrage
+2025-05-30 07:56:29,293 - INFO - 🧮 Greeks calculés
+2025-05-30 07:56:29,347 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 07:56:29,348 - INFO - 📊 Résultat: 665 options structurées
+2025-05-30 07:56:31,349 - INFO - 📊 Collecte pour 2025-05-28
+2025-05-30 07:56:31,349 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-28 ===
+2025-05-30 07:56:31,758 - INFO - 💰 Prix spot au 2025-05-28: $200.42
+2025-05-30 07:56:32,493 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:56:36,923 - INFO - 📈 883 options collectées avant filtrage
+2025-05-30 07:56:36,931 - INFO - 🧹 Filtrage: 227 options supprimées (25.7%)
+2025-05-30 07:56:36,931 - INFO - ✅ 656 options après filtrage
+2025-05-30 07:56:37,242 - INFO - 🧮 Greeks calculés
+2025-05-30 07:56:37,294 - INFO - ⏱️  Collecte terminée en 5.9s
+2025-05-30 07:56:37,294 - INFO - 📊 Résultat: 656 options structurées
+2025-05-30 07:56:39,295 - INFO - 📊 Collecte pour 2025-05-27
+2025-05-30 07:56:39,295 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-27 ===
+2025-05-30 07:56:39,763 - INFO - 💰 Prix spot au 2025-05-27: $200.21
+2025-05-30 07:56:40,165 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:56:44,507 - INFO - 📈 883 options collectées avant filtrage
+2025-05-30 07:56:44,515 - INFO - 🧹 Filtrage: 227 options supprimées (25.7%)
+2025-05-30 07:56:44,515 - INFO - ✅ 656 options après filtrage
+2025-05-30 07:56:44,825 - INFO - 🧮 Greeks calculés
+2025-05-30 07:56:44,880 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 07:56:44,880 - INFO - 📊 Résultat: 656 options structurées
+2025-05-30 07:56:46,881 - INFO - 📊 Collecte pour 2025-05-26
+2025-05-30 07:56:46,881 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-26 ===
+2025-05-30 07:56:47,339 - INFO - 📅 Utilisation du prix du 2025-05-23 (plus proche de 2025-05-26)
+2025-05-30 07:56:47,340 - INFO - 💰 Prix spot au 2025-05-26: $195.27
+2025-05-30 07:56:47,741 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:56:51,650 - INFO - 📈 883 options collectées avant filtrage
+2025-05-30 07:56:51,657 - INFO - 🧹 Filtrage: 218 options supprimées (24.7%)
+2025-05-30 07:56:51,657 - INFO - ✅ 665 options après filtrage
+2025-05-30 07:56:51,969 - INFO - 🧮 Greeks calculés
+2025-05-30 07:56:52,022 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 07:56:52,022 - INFO - 📊 Résultat: 665 options structurées
+2025-05-30 07:56:54,023 - INFO - 📊 Collecte pour 2025-05-23
+2025-05-30 07:56:54,023 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-23 ===
+2025-05-30 07:56:54,508 - INFO - 💰 Prix spot au 2025-05-23: $195.27
+2025-05-30 07:56:54,905 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:56:58,827 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:56:58,835 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:56:58,835 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:56:59,173 - INFO - 🧮 Greeks calculés
+2025-05-30 07:56:59,232 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 07:56:59,232 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:57:01,233 - INFO - 📊 Collecte pour 2025-05-22
+2025-05-30 07:57:01,233 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-22 ===
+2025-05-30 07:57:01,676 - INFO - 💰 Prix spot au 2025-05-22: $201.36
+2025-05-30 07:57:02,075 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:57:06,597 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:57:06,606 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 07:57:06,606 - INFO - ✅ 709 options après filtrage
+2025-05-30 07:57:06,942 - INFO - 🧮 Greeks calculés
+2025-05-30 07:57:06,998 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 07:57:06,998 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 07:57:08,998 - INFO - 📊 Collecte pour 2025-05-21
+2025-05-30 07:57:08,999 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-21 ===
+2025-05-30 07:57:09,450 - INFO - 💰 Prix spot au 2025-05-21: $202.09
+2025-05-30 07:57:09,853 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:57:20,722 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:57:20,730 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 07:57:20,730 - INFO - ✅ 709 options après filtrage
+2025-05-30 07:57:21,067 - INFO - 🧮 Greeks calculés
+2025-05-30 07:57:21,124 - INFO - ⏱️  Collecte terminée en 12.1s
+2025-05-30 07:57:21,124 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 07:57:23,125 - INFO - 📊 Collecte pour 2025-05-20
+2025-05-30 07:57:23,125 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-20 ===
+2025-05-30 07:57:23,587 - INFO - 💰 Prix spot au 2025-05-20: $206.86
+2025-05-30 07:57:23,980 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:57:27,899 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:57:27,908 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 07:57:27,908 - INFO - ✅ 709 options après filtrage
+2025-05-30 07:57:28,248 - INFO - 🧮 Greeks calculés
+2025-05-30 07:57:28,309 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 07:57:28,309 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 07:57:30,310 - INFO - 📊 Collecte pour 2025-05-19
+2025-05-30 07:57:30,310 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-19 ===
+2025-05-30 07:57:30,750 - INFO - 💰 Prix spot au 2025-05-19: $208.78
+2025-05-30 07:57:31,147 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:57:35,503 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:57:35,511 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 07:57:35,511 - INFO - ✅ 709 options après filtrage
+2025-05-30 07:57:35,856 - INFO - 🧮 Greeks calculés
+2025-05-30 07:57:35,919 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 07:57:35,920 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 07:57:37,920 - INFO - 📊 Collecte pour 2025-05-16
+2025-05-30 07:57:37,921 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-16 ===
+2025-05-30 07:57:38,531 - INFO - 💰 Prix spot au 2025-05-16: $211.26
+2025-05-30 07:57:38,924 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:57:42,274 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:57:42,281 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 07:57:42,281 - INFO - ✅ 701 options après filtrage
+2025-05-30 07:57:42,479 - INFO - 🧮 Greeks calculés
+2025-05-30 07:57:42,509 - INFO - ⏱️  Collecte terminée en 4.6s
+2025-05-30 07:57:42,509 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 07:57:44,510 - INFO - 📊 Collecte pour 2025-05-15
+2025-05-30 07:57:44,510 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-15 ===
+2025-05-30 07:57:44,909 - INFO - 💰 Prix spot au 2025-05-15: $211.45
+2025-05-30 07:57:45,481 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:57:49,406 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:57:49,415 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 07:57:49,415 - INFO - ✅ 701 options après filtrage
+2025-05-30 07:57:49,755 - INFO - 🧮 Greeks calculés
+2025-05-30 07:57:49,817 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:57:49,817 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 07:57:51,818 - INFO - 📊 Collecte pour 2025-05-14
+2025-05-30 07:57:51,818 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-14 ===
+2025-05-30 07:57:52,223 - INFO - 💰 Prix spot au 2025-05-14: $212.33
+2025-05-30 07:57:52,656 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:57:56,556 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:57:56,561 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 07:57:56,561 - INFO - ✅ 701 options après filtrage
+2025-05-30 07:57:56,721 - INFO - 🧮 Greeks calculés
+2025-05-30 07:57:56,750 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 07:57:56,750 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 07:57:58,751 - INFO - 📊 Collecte pour 2025-05-13
+2025-05-30 07:57:58,751 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-13 ===
+2025-05-30 07:57:59,151 - INFO - 💰 Prix spot au 2025-05-13: $212.93
+2025-05-30 07:57:59,608 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:58:03,511 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:58:03,517 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 07:58:03,517 - INFO - ✅ 701 options après filtrage
+2025-05-30 07:58:03,682 - INFO - 🧮 Greeks calculés
+2025-05-30 07:58:03,713 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:58:03,713 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 07:58:05,714 - INFO - 📊 Collecte pour 2025-05-12
+2025-05-30 07:58:05,714 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-12 ===
+2025-05-30 07:58:06,120 - INFO - 💰 Prix spot au 2025-05-12: $210.79
+2025-05-30 07:58:06,571 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:58:09,618 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:58:09,627 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 07:58:09,627 - INFO - ✅ 701 options après filtrage
+2025-05-30 07:58:09,976 - INFO - 🧮 Greeks calculés
+2025-05-30 07:58:10,036 - INFO - ⏱️  Collecte terminée en 4.3s
+2025-05-30 07:58:10,037 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 07:58:12,038 - INFO - 📊 Collecte pour 2025-05-09
+2025-05-30 07:58:12,038 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-09 ===
+2025-05-30 07:58:12,443 - INFO - 💰 Prix spot au 2025-05-09: $198.27
+2025-05-30 07:58:12,917 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:58:17,044 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:58:17,053 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:58:17,053 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:58:17,390 - INFO - 🧮 Greeks calculés
+2025-05-30 07:58:17,449 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:58:17,449 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:58:19,450 - INFO - 📊 Collecte pour 2025-05-08
+2025-05-30 07:58:19,451 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-08 ===
+2025-05-30 07:58:19,890 - INFO - 💰 Prix spot au 2025-05-08: $197.23
+2025-05-30 07:58:20,288 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:58:24,420 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:58:24,429 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:58:24,429 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:58:24,780 - INFO - 🧮 Greeks calculés
+2025-05-30 07:58:24,839 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 07:58:24,840 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:58:26,840 - INFO - 📊 Collecte pour 2025-05-07
+2025-05-30 07:58:26,841 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-07 ===
+2025-05-30 07:58:27,260 - INFO - 💰 Prix spot au 2025-05-07: $195.99
+2025-05-30 07:58:27,661 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:58:30,393 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:58:30,402 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:58:30,402 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:58:30,743 - INFO - 🧮 Greeks calculés
+2025-05-30 07:58:30,802 - INFO - ⏱️  Collecte terminée en 4.0s
+2025-05-30 07:58:30,802 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:58:32,804 - INFO - 📊 Collecte pour 2025-05-06
+2025-05-30 07:58:32,804 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-06 ===
+2025-05-30 07:58:33,207 - INFO - 💰 Prix spot au 2025-05-06: $198.25
+2025-05-30 07:58:33,598 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:58:37,931 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:58:37,940 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:58:37,940 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:58:38,282 - INFO - 🧮 Greeks calculés
+2025-05-30 07:58:38,340 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 07:58:38,340 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:58:40,341 - INFO - 📊 Collecte pour 2025-05-05
+2025-05-30 07:58:40,341 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-05 ===
+2025-05-30 07:58:40,777 - INFO - 💰 Prix spot au 2025-05-05: $198.63
+2025-05-30 07:58:41,178 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:58:44,159 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:58:44,167 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:58:44,168 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:58:44,509 - INFO - 🧮 Greeks calculés
+2025-05-30 07:58:44,566 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 07:58:44,567 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:58:46,567 - INFO - 📊 Collecte pour 2025-05-02
+2025-05-30 07:58:46,568 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-02 ===
+2025-05-30 07:58:46,979 - INFO - 💰 Prix spot au 2025-05-02: $205.08
+2025-05-30 07:58:47,524 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:58:52,045 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:58:52,054 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 07:58:52,054 - INFO - ✅ 709 options après filtrage
+2025-05-30 07:58:52,395 - INFO - 🧮 Greeks calculés
+2025-05-30 07:58:52,452 - INFO - ⏱️  Collecte terminée en 5.9s
+2025-05-30 07:58:52,452 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 07:58:54,453 - INFO - 📊 Collecte pour 2025-05-01
+2025-05-30 07:58:54,454 - INFO - 📊 === COLLECTE POUR AAPL le 2025-05-01 ===
+2025-05-30 07:58:54,903 - INFO - 💰 Prix spot au 2025-05-01: $213.04
+2025-05-30 07:58:55,303 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:58:59,009 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:58:59,017 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 07:58:59,017 - INFO - ✅ 701 options après filtrage
+2025-05-30 07:58:59,360 - INFO - 🧮 Greeks calculés
+2025-05-30 07:58:59,418 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:58:59,419 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 07:59:01,420 - INFO - 📊 Collecte pour 2025-04-30
+2025-05-30 07:59:01,420 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-30 ===
+2025-05-30 07:59:01,864 - INFO - 💰 Prix spot au 2025-04-30: $212.22
+2025-05-30 07:59:02,266 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:59:05,243 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:59:05,251 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 07:59:05,252 - INFO - ✅ 701 options après filtrage
+2025-05-30 07:59:05,588 - INFO - 🧮 Greeks calculés
+2025-05-30 07:59:05,647 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 07:59:05,648 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 07:59:07,649 - INFO - 📊 Collecte pour 2025-04-29
+2025-05-30 07:59:07,649 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-29 ===
+2025-05-30 07:59:08,047 - INFO - 💰 Prix spot au 2025-04-29: $210.93
+2025-05-30 07:59:08,438 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:59:12,128 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:59:12,138 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 07:59:12,138 - INFO - ✅ 701 options après filtrage
+2025-05-30 07:59:12,378 - INFO - 🧮 Greeks calculés
+2025-05-30 07:59:12,412 - INFO - ⏱️  Collecte terminée en 4.8s
+2025-05-30 07:59:12,412 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 07:59:14,413 - INFO - 📊 Collecte pour 2025-04-28
+2025-05-30 07:59:14,414 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-28 ===
+2025-05-30 07:59:14,970 - INFO - 💰 Prix spot au 2025-04-28: $209.86
+2025-05-30 07:59:15,370 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:59:19,870 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:59:19,879 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 07:59:19,880 - INFO - ✅ 709 options après filtrage
+2025-05-30 07:59:20,237 - INFO - 🧮 Greeks calculés
+2025-05-30 07:59:20,302 - INFO - ⏱️  Collecte terminée en 5.9s
+2025-05-30 07:59:20,302 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 07:59:22,303 - INFO - 📊 Collecte pour 2025-04-25
+2025-05-30 07:59:22,303 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-25 ===
+2025-05-30 07:59:22,747 - INFO - 💰 Prix spot au 2025-04-25: $209.01
+2025-05-30 07:59:23,152 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:59:27,268 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:59:27,279 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 07:59:27,279 - INFO - ✅ 709 options après filtrage
+2025-05-30 07:59:27,581 - INFO - 🧮 Greeks calculés
+2025-05-30 07:59:27,613 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 07:59:27,613 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 07:59:29,614 - INFO - 📊 Collecte pour 2025-04-24
+2025-05-30 07:59:29,614 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-24 ===
+2025-05-30 07:59:30,123 - INFO - 💰 Prix spot au 2025-04-24: $208.10
+2025-05-30 07:59:30,523 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:59:33,460 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:59:33,470 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 07:59:33,470 - INFO - ✅ 709 options après filtrage
+2025-05-30 07:59:33,813 - INFO - 🧮 Greeks calculés
+2025-05-30 07:59:33,863 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 07:59:33,863 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 07:59:35,864 - INFO - 📊 Collecte pour 2025-04-23
+2025-05-30 07:59:35,864 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-23 ===
+2025-05-30 07:59:36,265 - INFO - 💰 Prix spot au 2025-04-23: $204.33
+2025-05-30 07:59:36,665 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:59:40,146 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:59:40,154 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 07:59:40,154 - INFO - ✅ 709 options après filtrage
+2025-05-30 07:59:40,491 - INFO - 🧮 Greeks calculés
+2025-05-30 07:59:40,548 - INFO - ⏱️  Collecte terminée en 4.7s
+2025-05-30 07:59:40,549 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 07:59:42,549 - INFO - 📊 Collecte pour 2025-04-22
+2025-05-30 07:59:42,550 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-22 ===
+2025-05-30 07:59:42,958 - INFO - 💰 Prix spot au 2025-04-22: $199.48
+2025-05-30 07:59:43,427 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:59:47,145 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:59:47,153 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 07:59:47,154 - INFO - ✅ 718 options après filtrage
+2025-05-30 07:59:47,498 - INFO - 🧮 Greeks calculés
+2025-05-30 07:59:47,558 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 07:59:47,558 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 07:59:49,559 - INFO - 📊 Collecte pour 2025-04-21
+2025-05-30 07:59:49,560 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-21 ===
+2025-05-30 07:59:49,989 - INFO - 💰 Prix spot au 2025-04-21: $192.91
+2025-05-30 07:59:50,385 - INFO - 📅 10 expirations à traiter
+2025-05-30 07:59:54,306 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 07:59:54,315 - INFO - 🧹 Filtrage: 270 options supprimées (27.4%)
+2025-05-30 07:59:54,316 - INFO - ✅ 716 options après filtrage
+2025-05-30 07:59:54,599 - INFO - 🧮 Greeks calculés
+2025-05-30 07:59:54,628 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 07:59:54,628 - INFO - 📊 Résultat: 716 options structurées
+2025-05-30 07:59:56,629 - INFO - 📊 Collecte pour 2025-04-18
+2025-05-30 07:59:56,629 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-18 ===
+2025-05-30 07:59:57,047 - INFO - 📅 Utilisation du prix du 2025-04-17 (plus proche de 2025-04-18)
+2025-05-30 07:59:57,047 - INFO - 💰 Prix spot au 2025-04-18: $196.72
+2025-05-30 07:59:57,552 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:00:01,315 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:00:01,323 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 08:00:01,323 - INFO - ✅ 718 options après filtrage
+2025-05-30 08:00:01,668 - INFO - 🧮 Greeks calculés
+2025-05-30 08:00:01,727 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 08:00:01,727 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 08:00:03,728 - INFO - 📊 Collecte pour 2025-04-17
+2025-05-30 08:00:03,728 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-17 ===
+2025-05-30 08:00:04,194 - INFO - 💰 Prix spot au 2025-04-17: $196.72
+2025-05-30 08:00:04,598 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:00:08,099 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:00:08,109 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 08:00:08,109 - INFO - ✅ 718 options après filtrage
+2025-05-30 08:00:08,455 - INFO - 🧮 Greeks calculés
+2025-05-30 08:00:08,514 - INFO - ⏱️  Collecte terminée en 4.8s
+2025-05-30 08:00:08,514 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 08:00:10,514 - INFO - 📊 Collecte pour 2025-04-16
+2025-05-30 08:00:10,515 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-16 ===
+2025-05-30 08:00:10,911 - INFO - 💰 Prix spot au 2025-04-16: $194.02
+2025-05-30 08:00:11,478 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:00:15,477 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:00:15,485 - INFO - 🧹 Filtrage: 270 options supprimées (27.4%)
+2025-05-30 08:00:15,485 - INFO - ✅ 716 options après filtrage
+2025-05-30 08:00:15,837 - INFO - 🧮 Greeks calculés
+2025-05-30 08:00:15,896 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 08:00:15,896 - INFO - 📊 Résultat: 716 options structurées
+2025-05-30 08:00:17,897 - INFO - 📊 Collecte pour 2025-04-15
+2025-05-30 08:00:17,897 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-15 ===
+2025-05-30 08:00:18,447 - INFO - 💰 Prix spot au 2025-04-15: $201.88
+2025-05-30 08:00:19,054 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:00:22,152 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:00:22,161 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 08:00:22,162 - INFO - ✅ 709 options après filtrage
+2025-05-30 08:00:22,518 - INFO - 🧮 Greeks calculés
+2025-05-30 08:00:22,580 - INFO - ⏱️  Collecte terminée en 4.7s
+2025-05-30 08:00:22,580 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 08:00:24,581 - INFO - 📊 Collecte pour 2025-04-14
+2025-05-30 08:00:24,581 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-14 ===
+2025-05-30 08:00:25,034 - INFO - 💰 Prix spot au 2025-04-14: $202.25
+2025-05-30 08:00:25,445 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:00:29,515 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:00:29,523 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 08:00:29,523 - INFO - ✅ 709 options après filtrage
+2025-05-30 08:00:29,734 - INFO - 🧮 Greeks calculés
+2025-05-30 08:00:29,766 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:00:29,766 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 08:00:31,767 - INFO - 📊 Collecte pour 2025-04-11
+2025-05-30 08:00:31,767 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-11 ===
+2025-05-30 08:00:32,211 - INFO - 💰 Prix spot au 2025-04-11: $197.89
+2025-05-30 08:00:32,581 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:00:36,679 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:00:36,684 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 08:00:36,684 - INFO - ✅ 718 options après filtrage
+2025-05-30 08:00:36,856 - INFO - 🧮 Greeks calculés
+2025-05-30 08:00:36,886 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 08:00:36,886 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 08:00:38,887 - INFO - 📊 Collecte pour 2025-04-10
+2025-05-30 08:00:38,887 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-10 ===
+2025-05-30 08:00:39,547 - INFO - 💰 Prix spot au 2025-04-10: $190.17
+2025-05-30 08:00:39,939 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:00:43,625 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:00:43,630 - INFO - 🧹 Filtrage: 270 options supprimées (27.4%)
+2025-05-30 08:00:43,631 - INFO - ✅ 716 options après filtrage
+2025-05-30 08:00:43,798 - INFO - 🧮 Greeks calculés
+2025-05-30 08:00:43,831 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 08:00:43,831 - INFO - 📊 Résultat: 716 options structurées
+2025-05-30 08:00:45,832 - INFO - 📊 Collecte pour 2025-04-09
+2025-05-30 08:00:45,833 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-09 ===
+2025-05-30 08:00:46,295 - INFO - 💰 Prix spot au 2025-04-09: $198.59
+2025-05-30 08:00:46,695 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:00:51,231 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:00:51,241 - INFO - 🧹 Filtrage: 268 options supprimées (27.2%)
+2025-05-30 08:00:51,241 - INFO - ✅ 718 options après filtrage
+2025-05-30 08:00:51,587 - INFO - 🧮 Greeks calculés
+2025-05-30 08:00:51,646 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 08:00:51,646 - INFO - 📊 Résultat: 718 options structurées
+2025-05-30 08:00:53,647 - INFO - 📊 Collecte pour 2025-04-08
+2025-05-30 08:00:53,647 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-08 ===
+2025-05-30 08:00:54,078 - INFO - 💰 Prix spot au 2025-04-08: $172.19
+2025-05-30 08:00:54,483 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:00:58,188 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:00:58,196 - INFO - 🧹 Filtrage: 265 options supprimées (26.9%)
+2025-05-30 08:00:58,196 - INFO - ✅ 721 options après filtrage
+2025-05-30 08:00:58,541 - INFO - 🧮 Greeks calculés
+2025-05-30 08:00:58,586 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 08:00:58,587 - INFO - 📊 Résultat: 721 options structurées
+2025-05-30 08:01:00,588 - INFO - 📊 Collecte pour 2025-04-07
+2025-05-30 08:01:00,588 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-07 ===
+2025-05-30 08:01:01,047 - INFO - 💰 Prix spot au 2025-04-07: $181.22
+2025-05-30 08:01:01,446 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:01:06,164 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:01:06,169 - INFO - 🧹 Filtrage: 266 options supprimées (27.0%)
+2025-05-30 08:01:06,169 - INFO - ✅ 720 options après filtrage
+2025-05-30 08:01:06,337 - INFO - 🧮 Greeks calculés
+2025-05-30 08:01:06,367 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 08:01:06,367 - INFO - 📊 Résultat: 720 options structurées
+2025-05-30 08:01:08,368 - INFO - 📊 Collecte pour 2025-04-04
+2025-05-30 08:01:08,369 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-04 ===
+2025-05-30 08:01:08,812 - INFO - 💰 Prix spot au 2025-04-04: $188.13
+2025-05-30 08:01:09,223 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:01:12,374 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:01:12,383 - INFO - 🧹 Filtrage: 265 options supprimées (26.9%)
+2025-05-30 08:01:12,383 - INFO - ✅ 721 options après filtrage
+2025-05-30 08:01:12,732 - INFO - 🧮 Greeks calculés
+2025-05-30 08:01:12,790 - INFO - ⏱️  Collecte terminée en 4.4s
+2025-05-30 08:01:12,791 - INFO - 📊 Résultat: 721 options structurées
+2025-05-30 08:01:14,792 - INFO - 📊 Collecte pour 2025-04-03
+2025-05-30 08:01:14,792 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-03 ===
+2025-05-30 08:01:15,207 - INFO - 💰 Prix spot au 2025-04-03: $202.92
+2025-05-30 08:01:15,594 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:01:19,281 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:01:19,286 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 08:01:19,286 - INFO - ✅ 709 options après filtrage
+2025-05-30 08:01:19,450 - INFO - 🧮 Greeks calculés
+2025-05-30 08:01:19,479 - INFO - ⏱️  Collecte terminée en 4.7s
+2025-05-30 08:01:19,479 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 08:01:21,480 - INFO - 📊 Collecte pour 2025-04-02
+2025-05-30 08:01:21,481 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-02 ===
+2025-05-30 08:01:21,928 - INFO - 💰 Prix spot au 2025-04-02: $223.60
+2025-05-30 08:01:22,332 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:01:26,487 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:01:26,496 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:01:26,496 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:01:26,690 - INFO - 🧮 Greeks calculés
+2025-05-30 08:01:26,722 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:01:26,722 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:01:28,723 - INFO - 📊 Collecte pour 2025-04-01
+2025-05-30 08:01:28,723 - INFO - 📊 === COLLECTE POUR AAPL le 2025-04-01 ===
+2025-05-30 08:01:29,127 - INFO - 💰 Prix spot au 2025-04-01: $222.90
+2025-05-30 08:01:29,504 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:01:34,018 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:01:34,025 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:01:34,025 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:01:34,341 - INFO - 🧮 Greeks calculés
+2025-05-30 08:01:34,375 - INFO - ⏱️  Collecte terminée en 5.7s
+2025-05-30 08:01:34,375 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:01:36,376 - INFO - 📊 Collecte pour 2025-03-31
+2025-05-30 08:01:36,376 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-31 ===
+2025-05-30 08:01:36,876 - INFO - 💰 Prix spot au 2025-03-31: $221.84
+2025-05-30 08:01:37,277 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:01:40,218 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:01:40,226 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:01:40,227 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:01:40,585 - INFO - 🧮 Greeks calculés
+2025-05-30 08:01:40,648 - INFO - ⏱️  Collecte terminée en 4.3s
+2025-05-30 08:01:40,648 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:01:42,649 - INFO - 📊 Collecte pour 2025-03-28
+2025-05-30 08:01:42,649 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-28 ===
+2025-05-30 08:01:43,071 - INFO - 💰 Prix spot au 2025-03-28: $217.61
+2025-05-30 08:01:43,500 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:01:48,035 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:01:48,042 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 08:01:48,043 - INFO - ✅ 701 options après filtrage
+2025-05-30 08:01:48,385 - INFO - 🧮 Greeks calculés
+2025-05-30 08:01:48,441 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 08:01:48,441 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 08:01:50,442 - INFO - 📊 Collecte pour 2025-03-27
+2025-05-30 08:01:50,442 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-27 ===
+2025-05-30 08:01:50,852 - INFO - 💰 Prix spot au 2025-03-27: $223.56
+2025-05-30 08:01:51,247 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:01:54,918 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:01:54,926 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:01:54,926 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:01:55,253 - INFO - 🧮 Greeks calculés
+2025-05-30 08:01:55,310 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 08:01:55,311 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:01:57,312 - INFO - 📊 Collecte pour 2025-03-26
+2025-05-30 08:01:57,312 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-26 ===
+2025-05-30 08:01:57,762 - INFO - 💰 Prix spot au 2025-03-26: $221.24
+2025-05-30 08:01:58,163 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:02:02,278 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:02:02,286 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:02:02,286 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:02:02,621 - INFO - 🧮 Greeks calculés
+2025-05-30 08:02:02,678 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 08:02:02,678 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:02:04,679 - INFO - 📊 Collecte pour 2025-03-25
+2025-05-30 08:02:04,679 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-25 ===
+2025-05-30 08:02:05,133 - INFO - 💰 Prix spot au 2025-03-25: $223.46
+2025-05-30 08:02:05,534 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:02:10,057 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:02:10,066 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:02:10,066 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:02:10,399 - INFO - 🧮 Greeks calculés
+2025-05-30 08:02:10,458 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 08:02:10,459 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:02:12,460 - INFO - 📊 Collecte pour 2025-03-24
+2025-05-30 08:02:12,460 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-24 ===
+2025-05-30 08:02:12,915 - INFO - 💰 Prix spot au 2025-03-24: $220.44
+2025-05-30 08:02:13,315 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:02:17,238 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:02:17,247 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:02:17,247 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:02:17,587 - INFO - 🧮 Greeks calculés
+2025-05-30 08:02:17,649 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:02:17,649 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:02:19,650 - INFO - 📊 Collecte pour 2025-03-21
+2025-05-30 08:02:19,650 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-21 ===
+2025-05-30 08:02:20,084 - INFO - 💰 Prix spot au 2025-03-21: $217.98
+2025-05-30 08:02:20,482 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:02:25,071 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:02:25,080 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 08:02:25,080 - INFO - ✅ 701 options après filtrage
+2025-05-30 08:02:25,420 - INFO - 🧮 Greeks calculés
+2025-05-30 08:02:25,477 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 08:02:25,477 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 08:02:27,479 - INFO - 📊 Collecte pour 2025-03-20
+2025-05-30 08:02:27,479 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-20 ===
+2025-05-30 08:02:28,069 - INFO - 💰 Prix spot au 2025-03-20: $213.82
+2025-05-30 08:02:28,674 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:02:33,227 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:02:33,235 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 08:02:33,235 - INFO - ✅ 701 options après filtrage
+2025-05-30 08:02:33,574 - INFO - 🧮 Greeks calculés
+2025-05-30 08:02:33,619 - INFO - ⏱️  Collecte terminée en 6.1s
+2025-05-30 08:02:33,619 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 08:02:35,620 - INFO - 📊 Collecte pour 2025-03-19
+2025-05-30 08:02:35,620 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-19 ===
+2025-05-30 08:02:36,007 - INFO - 💰 Prix spot au 2025-03-19: $214.96
+2025-05-30 08:02:36,414 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:02:39,965 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:02:39,974 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 08:02:39,974 - INFO - ✅ 701 options après filtrage
+2025-05-30 08:02:40,307 - INFO - 🧮 Greeks calculés
+2025-05-30 08:02:40,365 - INFO - ⏱️  Collecte terminée en 4.7s
+2025-05-30 08:02:40,365 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 08:02:42,366 - INFO - 📊 Collecte pour 2025-03-18
+2025-05-30 08:02:42,366 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-18 ===
+2025-05-30 08:02:42,811 - INFO - 💰 Prix spot au 2025-03-18: $212.41
+2025-05-30 08:02:43,223 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:02:47,122 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:02:47,130 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 08:02:47,130 - INFO - ✅ 701 options après filtrage
+2025-05-30 08:02:47,472 - INFO - 🧮 Greeks calculés
+2025-05-30 08:02:47,529 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:02:47,529 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 08:02:49,531 - INFO - 📊 Collecte pour 2025-03-17
+2025-05-30 08:02:49,531 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-17 ===
+2025-05-30 08:02:49,980 - INFO - 💰 Prix spot au 2025-03-17: $213.72
+2025-05-30 08:02:50,381 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:02:54,701 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:02:54,709 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 08:02:54,710 - INFO - ✅ 701 options après filtrage
+2025-05-30 08:02:55,044 - INFO - 🧮 Greeks calculés
+2025-05-30 08:02:55,103 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 08:02:55,103 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 08:02:57,104 - INFO - 📊 Collecte pour 2025-03-14
+2025-05-30 08:02:57,105 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-14 ===
+2025-05-30 08:02:57,557 - INFO - 💰 Prix spot au 2025-03-14: $213.21
+2025-05-30 08:02:57,967 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:03:01,876 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:03:01,885 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 08:03:01,886 - INFO - ✅ 701 options après filtrage
+2025-05-30 08:03:02,233 - INFO - 🧮 Greeks calculés
+2025-05-30 08:03:02,295 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:03:02,295 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 08:03:04,296 - INFO - 📊 Collecte pour 2025-03-13
+2025-05-30 08:03:04,297 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-13 ===
+2025-05-30 08:03:04,724 - INFO - 💰 Prix spot au 2025-03-13: $209.41
+2025-05-30 08:03:05,124 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:03:09,862 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:03:09,870 - INFO - 🧹 Filtrage: 277 options supprimées (28.1%)
+2025-05-30 08:03:09,870 - INFO - ✅ 709 options après filtrage
+2025-05-30 08:03:10,211 - INFO - 🧮 Greeks calculés
+2025-05-30 08:03:10,271 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 08:03:10,271 - INFO - 📊 Résultat: 709 options structurées
+2025-05-30 08:03:12,272 - INFO - 📊 Collecte pour 2025-03-12
+2025-05-30 08:03:12,273 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-12 ===
+2025-05-30 08:03:12,710 - INFO - 💰 Prix spot au 2025-03-12: $216.70
+2025-05-30 08:03:13,112 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:03:17,078 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:03:17,086 - INFO - 🧹 Filtrage: 285 options supprimées (28.9%)
+2025-05-30 08:03:17,086 - INFO - ✅ 701 options après filtrage
+2025-05-30 08:03:17,425 - INFO - 🧮 Greeks calculés
+2025-05-30 08:03:17,485 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:03:17,485 - INFO - 📊 Résultat: 701 options structurées
+2025-05-30 08:03:19,486 - INFO - 📊 Collecte pour 2025-03-11
+2025-05-30 08:03:19,486 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-11 ===
+2025-05-30 08:03:19,918 - INFO - 💰 Prix spot au 2025-03-11: $220.55
+2025-05-30 08:03:20,306 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:03:23,843 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:03:23,851 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:03:23,851 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:03:24,179 - INFO - 🧮 Greeks calculés
+2025-05-30 08:03:24,236 - INFO - ⏱️  Collecte terminée en 4.7s
+2025-05-30 08:03:24,236 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:03:26,237 - INFO - 📊 Collecte pour 2025-03-10
+2025-05-30 08:03:26,237 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-10 ===
+2025-05-30 08:03:26,648 - INFO - 💰 Prix spot au 2025-03-10: $227.18
+2025-05-30 08:03:27,034 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:03:31,353 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:03:31,361 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:03:31,361 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:03:31,696 - INFO - 🧮 Greeks calculés
+2025-05-30 08:03:31,757 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 08:03:31,758 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:03:33,759 - INFO - 📊 Collecte pour 2025-03-07
+2025-05-30 08:03:33,759 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-07 ===
+2025-05-30 08:03:34,210 - INFO - 💰 Prix spot au 2025-03-07: $238.76
+2025-05-30 08:03:34,615 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:03:38,336 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:03:38,345 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:03:38,345 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:03:38,678 - INFO - 🧮 Greeks calculés
+2025-05-30 08:03:38,734 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 08:03:38,735 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:03:40,736 - INFO - 📊 Collecte pour 2025-03-06
+2025-05-30 08:03:40,736 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-06 ===
+2025-05-30 08:03:41,175 - INFO - 💰 Prix spot au 2025-03-06: $235.02
+2025-05-30 08:03:41,581 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:03:45,485 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:03:45,493 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:03:45,493 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:03:45,818 - INFO - 🧮 Greeks calculés
+2025-05-30 08:03:45,876 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 08:03:45,876 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:03:47,877 - INFO - 📊 Collecte pour 2025-03-05
+2025-05-30 08:03:47,877 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-05 ===
+2025-05-30 08:03:48,344 - INFO - 💰 Prix spot au 2025-03-05: $235.43
+2025-05-30 08:03:48,754 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:03:51,682 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:03:51,690 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:03:51,691 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:03:52,020 - INFO - 🧮 Greeks calculés
+2025-05-30 08:03:52,077 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 08:03:52,077 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:03:54,078 - INFO - 📊 Collecte pour 2025-03-04
+2025-05-30 08:03:54,079 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-04 ===
+2025-05-30 08:03:54,484 - INFO - 💰 Prix spot au 2025-03-04: $235.62
+2025-05-30 08:03:54,890 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:03:58,023 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:03:58,032 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:03:58,032 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:03:58,359 - INFO - 🧮 Greeks calculés
+2025-05-30 08:03:58,417 - INFO - ⏱️  Collecte terminée en 4.3s
+2025-05-30 08:03:58,417 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:04:00,418 - INFO - 📊 Collecte pour 2025-03-03
+2025-05-30 08:04:00,418 - INFO - 📊 === COLLECTE POUR AAPL le 2025-03-03 ===
+2025-05-30 08:04:00,832 - INFO - 💰 Prix spot au 2025-03-03: $237.72
+2025-05-30 08:04:01,232 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:04:04,374 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:04:04,383 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:04:04,383 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:04:04,707 - INFO - 🧮 Greeks calculés
+2025-05-30 08:04:04,762 - INFO - ⏱️  Collecte terminée en 4.3s
+2025-05-30 08:04:04,762 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:04:06,763 - INFO - 📊 Collecte pour 2025-02-28
+2025-05-30 08:04:06,763 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-28 ===
+2025-05-30 08:04:07,181 - INFO - 💰 Prix spot au 2025-02-28: $241.52
+2025-05-30 08:04:07,597 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:04:11,286 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:04:11,295 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:04:11,295 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:04:11,613 - INFO - 🧮 Greeks calculés
+2025-05-30 08:04:11,673 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 08:04:11,674 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:04:13,675 - INFO - 📊 Collecte pour 2025-02-27
+2025-05-30 08:04:13,675 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-27 ===
+2025-05-30 08:04:14,143 - INFO - 💰 Prix spot au 2025-02-27: $236.99
+2025-05-30 08:04:14,558 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:04:19,081 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:04:19,089 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:04:19,089 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:04:19,417 - INFO - 🧮 Greeks calculés
+2025-05-30 08:04:19,472 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 08:04:19,472 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:04:21,473 - INFO - 📊 Collecte pour 2025-02-26
+2025-05-30 08:04:21,473 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-26 ===
+2025-05-30 08:04:22,130 - INFO - 💰 Prix spot au 2025-02-26: $240.05
+2025-05-30 08:04:22,530 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:04:25,534 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:04:25,542 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:04:25,542 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:04:25,869 - INFO - 🧮 Greeks calculés
+2025-05-30 08:04:25,924 - INFO - ⏱️  Collecte terminée en 4.5s
+2025-05-30 08:04:25,924 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:04:27,925 - INFO - 📊 Collecte pour 2025-02-25
+2025-05-30 08:04:27,925 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-25 ===
+2025-05-30 08:04:28,480 - INFO - 💰 Prix spot au 2025-02-25: $246.72
+2025-05-30 08:04:28,878 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:04:32,787 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:04:32,795 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:04:32,796 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:04:33,114 - INFO - 🧮 Greeks calculés
+2025-05-30 08:04:33,168 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:04:33,168 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:04:35,169 - INFO - 📊 Collecte pour 2025-02-24
+2025-05-30 08:04:35,169 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-24 ===
+2025-05-30 08:04:35,645 - INFO - 💰 Prix spot au 2025-02-24: $246.78
+2025-05-30 08:04:36,045 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:04:39,752 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:04:39,760 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:04:39,760 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:04:40,079 - INFO - 🧮 Greeks calculés
+2025-05-30 08:04:40,134 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 08:04:40,134 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:04:42,135 - INFO - 📊 Collecte pour 2025-02-21
+2025-05-30 08:04:42,135 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-21 ===
+2025-05-30 08:04:42,614 - INFO - 💰 Prix spot au 2025-02-21: $245.23
+2025-05-30 08:04:43,007 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:04:45,985 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:04:45,993 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:04:45,993 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:04:46,320 - INFO - 🧮 Greeks calculés
+2025-05-30 08:04:46,374 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 08:04:46,374 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:04:48,375 - INFO - 📊 Collecte pour 2025-02-20
+2025-05-30 08:04:48,376 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-20 ===
+2025-05-30 08:04:48,771 - INFO - 💰 Prix spot au 2025-02-20: $245.51
+2025-05-30 08:04:49,154 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:04:52,860 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:04:52,868 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:04:52,869 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:04:53,194 - INFO - 🧮 Greeks calculés
+2025-05-30 08:04:53,248 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 08:04:53,248 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:04:55,249 - INFO - 📊 Collecte pour 2025-02-19
+2025-05-30 08:04:55,250 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-19 ===
+2025-05-30 08:04:55,716 - INFO - 💰 Prix spot au 2025-02-19: $244.55
+2025-05-30 08:04:56,137 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:04:59,252 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:04:59,260 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:04:59,260 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:04:59,579 - INFO - 🧮 Greeks calculés
+2025-05-30 08:04:59,634 - INFO - ⏱️  Collecte terminée en 4.4s
+2025-05-30 08:04:59,634 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:05:01,636 - INFO - 📊 Collecte pour 2025-02-18
+2025-05-30 08:05:01,636 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-18 ===
+2025-05-30 08:05:02,065 - INFO - 💰 Prix spot au 2025-02-18: $244.15
+2025-05-30 08:05:02,672 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:05:06,780 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:05:06,789 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:05:06,789 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:05:07,107 - INFO - 🧮 Greeks calculés
+2025-05-30 08:05:07,161 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 08:05:07,162 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:05:09,163 - INFO - 📊 Collecte pour 2025-02-17
+2025-05-30 08:05:09,163 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-17 ===
+2025-05-30 08:05:09,655 - INFO - 📅 Utilisation du prix du 2025-02-14 (plus proche de 2025-02-17)
+2025-05-30 08:05:09,656 - INFO - 💰 Prix spot au 2025-02-17: $244.28
+2025-05-30 08:05:10,043 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:05:14,387 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:05:14,395 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:05:14,396 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:05:14,713 - INFO - 🧮 Greeks calculés
+2025-05-30 08:05:14,768 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 08:05:14,769 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:05:16,770 - INFO - 📊 Collecte pour 2025-02-14
+2025-05-30 08:05:16,770 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-14 ===
+2025-05-30 08:05:17,218 - INFO - 💰 Prix spot au 2025-02-14: $244.28
+2025-05-30 08:05:17,619 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:05:21,530 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:05:21,538 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:05:21,538 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:05:21,857 - INFO - 🧮 Greeks calculés
+2025-05-30 08:05:21,911 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 08:05:21,911 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:05:23,912 - INFO - 📊 Collecte pour 2025-02-13
+2025-05-30 08:05:23,912 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-13 ===
+2025-05-30 08:05:24,392 - INFO - 💰 Prix spot au 2025-02-13: $241.21
+2025-05-30 08:05:24,785 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:05:28,502 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:05:28,510 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:05:28,510 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:05:28,840 - INFO - 🧮 Greeks calculés
+2025-05-30 08:05:28,894 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 08:05:28,894 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:05:30,895 - INFO - 📊 Collecte pour 2025-02-12
+2025-05-30 08:05:30,895 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-12 ===
+2025-05-30 08:05:31,348 - INFO - 💰 Prix spot au 2025-02-12: $236.56
+2025-05-30 08:05:31,750 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:05:35,454 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:05:35,462 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:05:35,462 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:05:35,795 - INFO - 🧮 Greeks calculés
+2025-05-30 08:05:35,852 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 08:05:35,852 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:05:37,854 - INFO - 📊 Collecte pour 2025-02-11
+2025-05-30 08:05:37,854 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-11 ===
+2025-05-30 08:05:38,310 - INFO - 💰 Prix spot au 2025-02-11: $232.32
+2025-05-30 08:05:38,708 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:05:43,437 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:05:43,445 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:05:43,445 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:05:43,792 - INFO - 🧮 Greeks calculés
+2025-05-30 08:05:43,848 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 08:05:43,848 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:05:45,850 - INFO - 📊 Collecte pour 2025-02-10
+2025-05-30 08:05:45,850 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-10 ===
+2025-05-30 08:05:46,503 - INFO - 💰 Prix spot au 2025-02-10: $227.35
+2025-05-30 08:05:46,925 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:05:49,840 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:05:49,850 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:05:49,850 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:05:50,174 - INFO - 🧮 Greeks calculés
+2025-05-30 08:05:50,231 - INFO - ⏱️  Collecte terminée en 4.4s
+2025-05-30 08:05:50,231 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:05:52,233 - INFO - 📊 Collecte pour 2025-02-07
+2025-05-30 08:05:52,233 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-07 ===
+2025-05-30 08:05:52,643 - INFO - 💰 Prix spot au 2025-02-07: $227.08
+2025-05-30 08:05:53,044 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:05:56,758 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:05:56,767 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:05:56,767 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:05:57,096 - INFO - 🧮 Greeks calculés
+2025-05-30 08:05:57,153 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 08:05:57,153 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:05:59,154 - INFO - 📊 Collecte pour 2025-02-06
+2025-05-30 08:05:59,154 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-06 ===
+2025-05-30 08:05:59,605 - INFO - 💰 Prix spot au 2025-02-06: $232.66
+2025-05-30 08:06:00,005 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:06:04,734 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:06:04,741 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:06:04,742 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:06:05,074 - INFO - 🧮 Greeks calculés
+2025-05-30 08:06:05,131 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 08:06:05,131 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:06:07,133 - INFO - 📊 Collecte pour 2025-02-05
+2025-05-30 08:06:07,133 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-05 ===
+2025-05-30 08:06:07,543 - INFO - 💰 Prix spot au 2025-02-05: $231.91
+2025-05-30 08:06:07,928 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:06:12,108 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:06:12,117 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:06:12,117 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:06:12,439 - INFO - 🧮 Greeks calculés
+2025-05-30 08:06:12,505 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 08:06:12,505 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:06:14,506 - INFO - 📊 Collecte pour 2025-02-04
+2025-05-30 08:06:14,506 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-04 ===
+2025-05-30 08:06:14,964 - INFO - 💰 Prix spot au 2025-02-04: $232.24
+2025-05-30 08:06:15,365 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:06:20,320 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:06:20,328 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:06:20,328 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:06:20,659 - INFO - 🧮 Greeks calculés
+2025-05-30 08:06:20,714 - INFO - ⏱️  Collecte terminée en 6.2s
+2025-05-30 08:06:20,715 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:06:22,716 - INFO - 📊 Collecte pour 2025-02-03
+2025-05-30 08:06:22,716 - INFO - 📊 === COLLECTE POUR AAPL le 2025-02-03 ===
+2025-05-30 08:06:23,359 - INFO - 💰 Prix spot au 2025-02-03: $227.46
+2025-05-30 08:06:23,774 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:06:27,549 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:06:27,558 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:06:27,558 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:06:27,884 - INFO - 🧮 Greeks calculés
+2025-05-30 08:06:27,940 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:06:27,941 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:06:29,942 - INFO - 📊 Collecte pour 2025-01-31
+2025-05-30 08:06:29,942 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-31 ===
+2025-05-30 08:06:30,357 - INFO - 💰 Prix spot au 2025-01-31: $235.43
+2025-05-30 08:06:30,772 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:06:34,633 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:06:34,642 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:06:34,642 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:06:34,975 - INFO - 🧮 Greeks calculés
+2025-05-30 08:06:35,031 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 08:06:35,031 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:06:37,033 - INFO - 📊 Collecte pour 2025-01-30
+2025-05-30 08:06:37,033 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-30 ===
+2025-05-30 08:06:37,494 - INFO - 💰 Prix spot au 2025-01-30: $237.02
+2025-05-30 08:06:37,931 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:06:41,601 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:06:41,610 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:06:41,611 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:06:41,946 - INFO - 🧮 Greeks calculés
+2025-05-30 08:06:42,003 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 08:06:42,003 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:06:44,004 - INFO - 📊 Collecte pour 2025-01-29
+2025-05-30 08:06:44,004 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-29 ===
+2025-05-30 08:06:44,452 - INFO - 💰 Prix spot au 2025-01-29: $238.78
+2025-05-30 08:06:44,853 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:06:47,786 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:06:47,794 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:06:47,795 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:06:48,123 - INFO - 🧮 Greeks calculés
+2025-05-30 08:06:48,177 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 08:06:48,178 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:06:50,178 - INFO - 📊 Collecte pour 2025-01-28
+2025-05-30 08:06:50,179 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-28 ===
+2025-05-30 08:06:50,599 - INFO - 💰 Prix spot au 2025-01-28: $237.69
+2025-05-30 08:06:50,997 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:06:55,312 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:06:55,320 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:06:55,320 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:06:55,652 - INFO - 🧮 Greeks calculés
+2025-05-30 08:06:55,707 - INFO - ⏱️  Collecte terminée en 5.5s
+2025-05-30 08:06:55,708 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:06:57,709 - INFO - 📊 Collecte pour 2025-01-27
+2025-05-30 08:06:57,709 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-27 ===
+2025-05-30 08:06:58,171 - INFO - 💰 Prix spot au 2025-01-27: $229.31
+2025-05-30 08:06:58,573 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:07:01,505 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:07:01,514 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:07:01,514 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:07:01,844 - INFO - 🧮 Greeks calculés
+2025-05-30 08:07:01,900 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 08:07:01,900 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:07:03,901 - INFO - 📊 Collecte pour 2025-01-24
+2025-05-30 08:07:03,902 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-24 ===
+2025-05-30 08:07:04,317 - INFO - 💰 Prix spot au 2025-01-24: $222.24
+2025-05-30 08:07:04,716 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:07:08,433 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:07:08,441 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:07:08,441 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:07:08,765 - INFO - 🧮 Greeks calculés
+2025-05-30 08:07:08,823 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 08:07:08,823 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:07:10,824 - INFO - 📊 Collecte pour 2025-01-23
+2025-05-30 08:07:10,824 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-23 ===
+2025-05-30 08:07:11,280 - INFO - 💰 Prix spot au 2025-01-23: $223.12
+2025-05-30 08:07:11,700 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:07:16,017 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:07:16,026 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:07:16,026 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:07:16,367 - INFO - 🧮 Greeks calculés
+2025-05-30 08:07:16,422 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 08:07:16,423 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:07:18,424 - INFO - 📊 Collecte pour 2025-01-22
+2025-05-30 08:07:18,424 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-22 ===
+2025-05-30 08:07:18,858 - INFO - 💰 Prix spot au 2025-01-22: $223.29
+2025-05-30 08:07:19,255 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:07:22,648 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:07:22,657 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:07:22,657 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:07:22,991 - INFO - 🧮 Greeks calculés
+2025-05-30 08:07:23,047 - INFO - ⏱️  Collecte terminée en 4.6s
+2025-05-30 08:07:23,048 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:07:25,049 - INFO - 📊 Collecte pour 2025-01-21
+2025-05-30 08:07:25,049 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-21 ===
+2025-05-30 08:07:25,475 - INFO - 💰 Prix spot au 2025-01-21: $222.10
+2025-05-30 08:07:26,019 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:07:29,732 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:07:29,741 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:07:29,741 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:07:30,068 - INFO - 🧮 Greeks calculés
+2025-05-30 08:07:30,127 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 08:07:30,127 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:07:32,128 - INFO - 📊 Collecte pour 2025-01-20
+2025-05-30 08:07:32,128 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-20 ===
+2025-05-30 08:07:32,576 - INFO - 📅 Utilisation du prix du 2025-01-17 (plus proche de 2025-01-20)
+2025-05-30 08:07:32,576 - INFO - 💰 Prix spot au 2025-01-20: $229.43
+2025-05-30 08:07:33,022 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:07:36,679 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:07:36,687 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:07:36,687 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:07:37,017 - INFO - 🧮 Greeks calculés
+2025-05-30 08:07:37,074 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 08:07:37,074 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:07:39,075 - INFO - 📊 Collecte pour 2025-01-17
+2025-05-30 08:07:39,076 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-17 ===
+2025-05-30 08:07:39,540 - INFO - 💰 Prix spot au 2025-01-17: $229.43
+2025-05-30 08:07:39,938 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:07:44,273 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:07:44,282 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:07:44,282 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:07:44,618 - INFO - 🧮 Greeks calculés
+2025-05-30 08:07:44,674 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 08:07:44,674 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:07:46,675 - INFO - 📊 Collecte pour 2025-01-16
+2025-05-30 08:07:46,676 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-16 ===
+2025-05-30 08:07:47,117 - INFO - 💰 Prix spot au 2025-01-16: $227.71
+2025-05-30 08:07:47,530 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:07:51,231 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:07:51,240 - INFO - 🧹 Filtrage: 298 options supprimées (30.2%)
+2025-05-30 08:07:51,240 - INFO - ✅ 688 options après filtrage
+2025-05-30 08:07:51,572 - INFO - 🧮 Greeks calculés
+2025-05-30 08:07:51,627 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 08:07:51,627 - INFO - 📊 Résultat: 688 options structurées
+2025-05-30 08:07:53,629 - INFO - 📊 Collecte pour 2025-01-15
+2025-05-30 08:07:53,629 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-15 ===
+2025-05-30 08:07:54,079 - INFO - 💰 Prix spot au 2025-01-15: $237.30
+2025-05-30 08:07:54,482 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:07:58,026 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:07:58,035 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:07:58,035 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:07:58,366 - INFO - 🧮 Greeks calculés
+2025-05-30 08:07:58,421 - INFO - ⏱️  Collecte terminée en 4.8s
+2025-05-30 08:07:58,421 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:08:00,422 - INFO - 📊 Collecte pour 2025-01-14
+2025-05-30 08:08:00,422 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-14 ===
+2025-05-30 08:08:00,837 - INFO - 💰 Prix spot au 2025-01-14: $232.72
+2025-05-30 08:08:01,236 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:08:05,161 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:08:05,170 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:08:05,170 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:08:05,495 - INFO - 🧮 Greeks calculés
+2025-05-30 08:08:05,550 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 08:08:05,551 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:08:07,552 - INFO - 📊 Collecte pour 2025-01-13
+2025-05-30 08:08:07,552 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-13 ===
+2025-05-30 08:08:07,983 - INFO - 💰 Prix spot au 2025-01-13: $233.84
+2025-05-30 08:08:08,404 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:08:11,539 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:08:11,548 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:08:11,548 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:08:11,875 - INFO - 🧮 Greeks calculés
+2025-05-30 08:08:11,933 - INFO - ⏱️  Collecte terminée en 4.4s
+2025-05-30 08:08:11,933 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:08:13,935 - INFO - 📊 Collecte pour 2025-01-10
+2025-05-30 08:08:13,935 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-10 ===
+2025-05-30 08:08:14,358 - INFO - 💰 Prix spot au 2025-01-10: $236.28
+2025-05-30 08:08:14,775 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:08:18,768 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:08:18,776 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:08:18,776 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:08:19,105 - INFO - 🧮 Greeks calculés
+2025-05-30 08:08:19,161 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:08:19,161 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:08:21,162 - INFO - 📊 Collecte pour 2025-01-09
+2025-05-30 08:08:21,163 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-09 ===
+2025-05-30 08:08:21,723 - INFO - 📅 Utilisation du prix du 2025-01-08 (plus proche de 2025-01-09)
+2025-05-30 08:08:21,724 - INFO - 💰 Prix spot au 2025-01-09: $242.12
+2025-05-30 08:08:22,123 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:08:26,034 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:08:26,042 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:08:26,042 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:08:26,362 - INFO - 🧮 Greeks calculés
+2025-05-30 08:08:26,416 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:08:26,416 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:08:28,417 - INFO - 📊 Collecte pour 2025-01-08
+2025-05-30 08:08:28,417 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-08 ===
+2025-05-30 08:08:28,918 - INFO - 💰 Prix spot au 2025-01-08: $242.12
+2025-05-30 08:08:29,302 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:08:33,200 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:08:33,208 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:08:33,208 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:08:33,526 - INFO - 🧮 Greeks calculés
+2025-05-30 08:08:33,581 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:08:33,581 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:08:35,582 - INFO - 📊 Collecte pour 2025-01-07
+2025-05-30 08:08:35,582 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-07 ===
+2025-05-30 08:08:36,060 - INFO - 💰 Prix spot au 2025-01-07: $241.63
+2025-05-30 08:08:36,460 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:08:40,573 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:08:40,581 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:08:40,581 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:08:40,894 - INFO - 🧮 Greeks calculés
+2025-05-30 08:08:40,949 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 08:08:40,949 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:08:42,950 - INFO - 📊 Collecte pour 2025-01-06
+2025-05-30 08:08:42,950 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-06 ===
+2025-05-30 08:08:43,431 - INFO - 💰 Prix spot au 2025-01-06: $244.41
+2025-05-30 08:08:43,834 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:08:46,765 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:08:46,772 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:08:46,772 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:08:47,096 - INFO - 🧮 Greeks calculés
+2025-05-30 08:08:47,152 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 08:08:47,152 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:08:49,154 - INFO - 📊 Collecte pour 2025-01-03
+2025-05-30 08:08:49,154 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-03 ===
+2025-05-30 08:08:49,574 - INFO - 💰 Prix spot au 2025-01-03: $242.77
+2025-05-30 08:08:49,975 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:08:54,114 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:08:54,123 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:08:54,123 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:08:54,449 - INFO - 🧮 Greeks calculés
+2025-05-30 08:08:54,504 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 08:08:54,504 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:08:56,505 - INFO - 📊 Collecte pour 2025-01-02
+2025-05-30 08:08:56,505 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-02 ===
+2025-05-30 08:08:56,947 - INFO - 💰 Prix spot au 2025-01-02: $243.26
+2025-05-30 08:08:57,347 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:09:00,102 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:09:00,111 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:09:00,111 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:09:00,436 - INFO - 🧮 Greeks calculés
+2025-05-30 08:09:00,492 - INFO - ⏱️  Collecte terminée en 4.0s
+2025-05-30 08:09:00,492 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:09:02,493 - INFO - 📊 Collecte pour 2025-01-01
+2025-05-30 08:09:02,493 - INFO - 📊 === COLLECTE POUR AAPL le 2025-01-01 ===
+2025-05-30 08:09:02,891 - INFO - 📅 Utilisation du prix du 2024-12-31 (plus proche de 2025-01-01)
+2025-05-30 08:09:02,892 - INFO - 💰 Prix spot au 2025-01-01: $249.82
+2025-05-30 08:09:03,291 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:09:06,219 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:09:06,228 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:09:06,229 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:09:06,556 - INFO - 🧮 Greeks calculés
+2025-05-30 08:09:06,610 - INFO - ⏱️  Collecte terminée en 4.1s
+2025-05-30 08:09:06,611 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:09:08,611 - INFO - 📊 Collecte pour 2024-12-31
+2025-05-30 08:09:08,612 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-31 ===
+2025-05-30 08:09:09,032 - INFO - 💰 Prix spot au 2024-12-31: $249.82
+2025-05-30 08:09:09,429 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:09:12,400 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:09:12,408 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:09:12,408 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:09:12,729 - INFO - 🧮 Greeks calculés
+2025-05-30 08:09:12,781 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 08:09:12,782 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:09:14,783 - INFO - 📊 Collecte pour 2024-12-30
+2025-05-30 08:09:14,783 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-30 ===
+2025-05-30 08:09:15,238 - INFO - 💰 Prix spot au 2024-12-30: $251.59
+2025-05-30 08:09:15,779 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:09:20,308 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:09:20,316 - INFO - 🧹 Filtrage: 332 options supprimées (33.7%)
+2025-05-30 08:09:20,316 - INFO - ✅ 654 options après filtrage
+2025-05-30 08:09:20,631 - INFO - 🧮 Greeks calculés
+2025-05-30 08:09:20,688 - INFO - ⏱️  Collecte terminée en 5.9s
+2025-05-30 08:09:20,688 - INFO - 📊 Résultat: 654 options structurées
+2025-05-30 08:09:22,689 - INFO - 📊 Collecte pour 2024-12-27
+2025-05-30 08:09:22,689 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-27 ===
+2025-05-30 08:09:23,160 - INFO - 💰 Prix spot au 2024-12-27: $254.97
+2025-05-30 08:09:23,559 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:09:27,278 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:09:27,286 - INFO - 🧹 Filtrage: 332 options supprimées (33.7%)
+2025-05-30 08:09:27,287 - INFO - ✅ 654 options après filtrage
+2025-05-30 08:09:27,613 - INFO - 🧮 Greeks calculés
+2025-05-30 08:09:27,668 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 08:09:27,668 - INFO - 📊 Résultat: 654 options structurées
+2025-05-30 08:09:29,669 - INFO - 📊 Collecte pour 2024-12-26
+2025-05-30 08:09:29,669 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-26 ===
+2025-05-30 08:09:30,124 - INFO - 💰 Prix spot au 2024-12-26: $258.40
+2025-05-30 08:09:30,523 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:09:33,510 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:09:33,518 - INFO - 🧹 Filtrage: 332 options supprimées (33.7%)
+2025-05-30 08:09:33,518 - INFO - ✅ 654 options après filtrage
+2025-05-30 08:09:33,833 - INFO - 🧮 Greeks calculés
+2025-05-30 08:09:33,893 - INFO - ⏱️  Collecte terminée en 4.2s
+2025-05-30 08:09:33,893 - INFO - 📊 Résultat: 654 options structurées
+2025-05-30 08:09:35,894 - INFO - 📊 Collecte pour 2024-12-25
+2025-05-30 08:09:35,895 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-25 ===
+2025-05-30 08:09:36,470 - INFO - 📅 Utilisation du prix du 2024-12-24 (plus proche de 2024-12-25)
+2025-05-30 08:09:36,471 - INFO - 💰 Prix spot au 2024-12-25: $257.58
+2025-05-30 08:09:36,871 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:09:40,576 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:09:40,584 - INFO - 🧹 Filtrage: 332 options supprimées (33.7%)
+2025-05-30 08:09:40,584 - INFO - ✅ 654 options après filtrage
+2025-05-30 08:09:40,909 - INFO - 🧮 Greeks calculés
+2025-05-30 08:09:40,962 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 08:09:40,962 - INFO - 📊 Résultat: 654 options structurées
+2025-05-30 08:09:42,963 - INFO - 📊 Collecte pour 2024-12-24
+2025-05-30 08:09:42,963 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-24 ===
+2025-05-30 08:09:43,431 - INFO - 💰 Prix spot au 2024-12-24: $257.58
+2025-05-30 08:09:43,835 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:09:47,946 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:09:47,954 - INFO - 🧹 Filtrage: 332 options supprimées (33.7%)
+2025-05-30 08:09:47,954 - INFO - ✅ 654 options après filtrage
+2025-05-30 08:09:48,265 - INFO - 🧮 Greeks calculés
+2025-05-30 08:09:48,319 - INFO - ⏱️  Collecte terminée en 5.4s
+2025-05-30 08:09:48,319 - INFO - 📊 Résultat: 654 options structurées
+2025-05-30 08:09:50,320 - INFO - 📊 Collecte pour 2024-12-23
+2025-05-30 08:09:50,321 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-23 ===
+2025-05-30 08:09:51,031 - INFO - 💰 Prix spot au 2024-12-23: $254.66
+2025-05-30 08:09:51,822 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:09:56,153 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:09:56,160 - INFO - 🧹 Filtrage: 332 options supprimées (33.7%)
+2025-05-30 08:09:56,161 - INFO - ✅ 654 options après filtrage
+2025-05-30 08:09:56,479 - INFO - 🧮 Greeks calculés
+2025-05-30 08:09:56,531 - INFO - ⏱️  Collecte terminée en 6.2s
+2025-05-30 08:09:56,531 - INFO - 📊 Résultat: 654 options structurées
+2025-05-30 08:09:58,532 - INFO - 📊 Collecte pour 2024-12-20
+2025-05-30 08:09:58,533 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-20 ===
+2025-05-30 08:09:58,997 - INFO - 💰 Prix spot au 2024-12-20: $253.88
+2025-05-30 08:09:59,381 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:10:04,128 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:10:04,137 - INFO - 🧹 Filtrage: 332 options supprimées (33.7%)
+2025-05-30 08:10:04,137 - INFO - ✅ 654 options après filtrage
+2025-05-30 08:10:04,457 - INFO - 🧮 Greeks calculés
+2025-05-30 08:10:04,510 - INFO - ⏱️  Collecte terminée en 6.0s
+2025-05-30 08:10:04,511 - INFO - 📊 Résultat: 654 options structurées
+2025-05-30 08:10:06,512 - INFO - 📊 Collecte pour 2024-12-19
+2025-05-30 08:10:06,512 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-19 ===
+2025-05-30 08:10:06,984 - INFO - 💰 Prix spot au 2024-12-19: $249.19
+2025-05-30 08:10:07,383 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:10:11,085 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:10:11,093 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:10:11,094 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:10:11,412 - INFO - 🧮 Greeks calculés
+2025-05-30 08:10:11,468 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 08:10:11,468 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:10:13,469 - INFO - 📊 Collecte pour 2024-12-18
+2025-05-30 08:10:13,469 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-18 ===
+2025-05-30 08:10:14,031 - INFO - 💰 Prix spot au 2024-12-18: $247.45
+2025-05-30 08:10:14,544 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:10:18,051 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:10:18,059 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:10:18,059 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:10:18,380 - INFO - 🧮 Greeks calculés
+2025-05-30 08:10:18,434 - INFO - ⏱️  Collecte terminée en 5.0s
+2025-05-30 08:10:18,434 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:10:20,435 - INFO - 📊 Collecte pour 2024-12-17
+2025-05-30 08:10:20,435 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-17 ===
+2025-05-30 08:10:20,909 - INFO - 💰 Prix spot au 2024-12-17: $252.87
+2025-05-30 08:10:21,513 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:10:25,284 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:10:25,292 - INFO - 🧹 Filtrage: 332 options supprimées (33.7%)
+2025-05-30 08:10:25,292 - INFO - ✅ 654 options après filtrage
+2025-05-30 08:10:25,615 - INFO - 🧮 Greeks calculés
+2025-05-30 08:10:25,670 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:10:25,671 - INFO - 📊 Résultat: 654 options structurées
+2025-05-30 08:10:27,672 - INFO - 📊 Collecte pour 2024-12-16
+2025-05-30 08:10:27,672 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-16 ===
+2025-05-30 08:10:28,075 - INFO - 💰 Prix spot au 2024-12-16: $250.44
+2025-05-30 08:10:28,477 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:10:32,425 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:10:32,433 - INFO - 🧹 Filtrage: 332 options supprimées (33.7%)
+2025-05-30 08:10:32,433 - INFO - ✅ 654 options après filtrage
+2025-05-30 08:10:32,752 - INFO - 🧮 Greeks calculés
+2025-05-30 08:10:32,811 - INFO - ⏱️  Collecte terminée en 5.1s
+2025-05-30 08:10:32,811 - INFO - 📊 Résultat: 654 options structurées
+2025-05-30 08:10:34,812 - INFO - 📊 Collecte pour 2024-12-13
+2025-05-30 08:10:34,812 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-13 ===
+2025-05-30 08:10:35,245 - INFO - 💰 Prix spot au 2024-12-13: $247.53
+2025-05-30 08:10:35,669 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:10:40,168 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:10:40,175 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:10:40,175 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:10:40,492 - INFO - 🧮 Greeks calculés
+2025-05-30 08:10:40,547 - INFO - ⏱️  Collecte terminée en 5.7s
+2025-05-30 08:10:40,548 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:10:42,548 - INFO - 📊 Collecte pour 2024-12-12
+2025-05-30 08:10:42,549 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-12 ===
+2025-05-30 08:10:43,025 - INFO - 💰 Prix spot au 2024-12-12: $247.36
+2025-05-30 08:10:43,426 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:10:47,759 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:10:47,767 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:10:47,767 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:10:48,089 - INFO - 🧮 Greeks calculés
+2025-05-30 08:10:48,142 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 08:10:48,142 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:10:50,143 - INFO - 📊 Collecte pour 2024-12-11
+2025-05-30 08:10:50,143 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-11 ===
+2025-05-30 08:10:50,605 - INFO - 💰 Prix spot au 2024-12-11: $245.90
+2025-05-30 08:10:51,137 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:10:55,355 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:10:55,364 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:10:55,364 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:10:55,688 - INFO - 🧮 Greeks calculés
+2025-05-30 08:10:55,743 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 08:10:55,743 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:10:57,745 - INFO - 📊 Collecte pour 2024-12-10
+2025-05-30 08:10:57,745 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-10 ===
+2025-05-30 08:10:58,202 - INFO - 💰 Prix spot au 2024-12-10: $247.17
+2025-05-30 08:10:58,587 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:11:02,289 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:11:02,297 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:11:02,299 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:11:02,623 - INFO - 🧮 Greeks calculés
+2025-05-30 08:11:02,677 - INFO - ⏱️  Collecte terminée en 4.9s
+2025-05-30 08:11:02,677 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:11:04,678 - INFO - 📊 Collecte pour 2024-12-09
+2025-05-30 08:11:04,679 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-09 ===
+2025-05-30 08:11:05,350 - INFO - 💰 Prix spot au 2024-12-09: $246.16
+2025-05-30 08:11:05,749 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:11:10,067 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:11:10,075 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:11:10,075 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:11:10,401 - INFO - 🧮 Greeks calculés
+2025-05-30 08:11:10,457 - INFO - ⏱️  Collecte terminée en 5.8s
+2025-05-30 08:11:10,457 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:11:12,458 - INFO - 📊 Collecte pour 2024-12-06
+2025-05-30 08:11:12,458 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-06 ===
+2025-05-30 08:11:12,953 - INFO - 💰 Prix spot au 2024-12-06: $242.26
+2025-05-30 08:11:13,333 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:11:16,330 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:11:16,338 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:11:16,338 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:11:16,661 - INFO - 🧮 Greeks calculés
+2025-05-30 08:11:16,715 - INFO - ⏱️  Collecte terminée en 4.3s
+2025-05-30 08:11:16,715 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:11:18,717 - INFO - 📊 Collecte pour 2024-12-05
+2025-05-30 08:11:18,717 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-05 ===
+2025-05-30 08:11:19,131 - INFO - 💰 Prix spot au 2024-12-05: $242.46
+2025-05-30 08:11:19,878 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:11:23,596 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:11:23,604 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:11:23,604 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:11:23,921 - INFO - 🧮 Greeks calculés
+2025-05-30 08:11:23,976 - INFO - ⏱️  Collecte terminée en 5.3s
+2025-05-30 08:11:23,976 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:11:25,977 - INFO - 📊 Collecte pour 2024-12-04
+2025-05-30 08:11:25,977 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-04 ===
+2025-05-30 08:11:26,437 - INFO - 💰 Prix spot au 2024-12-04: $242.43
+2025-05-30 08:11:26,839 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:11:30,765 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:11:30,773 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:11:30,773 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:11:31,095 - INFO - 🧮 Greeks calculés
+2025-05-30 08:11:31,150 - INFO - ⏱️  Collecte terminée en 5.2s
+2025-05-30 08:11:31,150 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:11:33,151 - INFO - 📊 Collecte pour 2024-12-03
+2025-05-30 08:11:33,152 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-03 ===
+2025-05-30 08:11:33,614 - INFO - 💰 Prix spot au 2024-12-03: $242.07
+2025-05-30 08:11:34,009 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:11:38,330 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:11:38,338 - INFO - 🧹 Filtrage: 320 options supprimées (32.5%)
+2025-05-30 08:11:38,339 - INFO - ✅ 666 options après filtrage
+2025-05-30 08:11:38,663 - INFO - 🧮 Greeks calculés
+2025-05-30 08:11:38,719 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 08:11:38,719 - INFO - 📊 Résultat: 666 options structurées
+2025-05-30 08:11:40,720 - INFO - 📊 Collecte pour 2024-12-02
+2025-05-30 08:11:40,720 - INFO - 📊 === COLLECTE POUR AAPL le 2024-12-02 ===
+2025-05-30 08:11:41,189 - INFO - 💰 Prix spot au 2024-12-02: $239.01
+2025-05-30 08:11:41,584 - INFO - 📅 10 expirations à traiter
+2025-05-30 08:11:45,903 - INFO - 📈 986 options collectées avant filtrage
+2025-05-30 08:11:45,911 - INFO - 🧹 Filtrage: 307 options supprimées (31.1%)
+2025-05-30 08:11:45,911 - INFO - ✅ 679 options après filtrage
+2025-05-30 08:11:46,240 - INFO - 🧮 Greeks calculés
+2025-05-30 08:11:46,295 - INFO - ⏱️  Collecte terminée en 5.6s
+2025-05-30 08:11:46,296 - INFO - 📊 Résultat: 679 options structurées
+2025-05-30 08:11:47,737 - INFO - ✅ Collecte terminée!
+2025-05-30 08:11:47,737 - INFO - 📊 Total: 89093 options
+2025-05-30 08:11:47,737 - INFO - 💾 Fichier: data/AAPL/AAPL_options_combined_180d.csv

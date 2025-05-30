@@ -590,8 +590,8 @@ def main():
     # Collecter les données
     df_yahoo = yahoo_collector.collect_historical_data(
         ticker=TICKER,
-        days_back=7,  # Juste 7 jours pour la démo
-        save_intermediate=True
+        days_back=DAYS_BACK,  # Juste 7 jours pour la démo
+        save_intermediate=False
     )
     
     if not df_yahoo.empty:
